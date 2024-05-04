@@ -2,18 +2,7 @@ Código do alimento,Descrição do alimento,Calorias
 6300101,"Arroz (polido, parboilizado, agulha, agulhinha, etc.)",135.6229457071333
 6300201,Arroz integral,130.9456437535
 6300701,Milho (em grão),160.141
-6300701,Milho (em grão),160.141
-6300701,Milho (em grão),160.141
-6300701,Milho (em grão),160.141
-6300701,Milho (em grão),160.141
-6300701,Milho (em grão),160.141
-6300701,Milho (em grão),160.141
 6300706,Canjiquinha de milho em grão,79.68
-6300706,Canjiquinha de milho em grão,62.952
-6300706,Canjiquinha de milho em grão,79.68
-6300706,Canjiquinha de milho em grão,62.952
-6300706,Canjiquinha de milho em grão,31.443
-6300706,Canjiquinha de milho em grão,62.952
 6300707,Xerém de milho,62.952
 6301001,Amendoim (em grão) in natura,567.0
 6301101,Ervilha em grão,109.093
@@ -36,107 +25,22 @@ Código do alimento,Descrição do alimento,Calorias
 6304602,Feijão-de-soja orgânico,196.342
 6304901,Quinoa,135.465
 6400101,Batata-inglesa,86.0
-6400101,Batata-inglesa,86.0
-6400101,Batata-inglesa,86.0
-6400101,Batata-inglesa,86.0
-6400101,Batata-inglesa,263.5
-6400101,Batata-inglesa,111.736
-6400101,Batata-inglesa,73.6
-6400101,Batata-inglesa,101.39
-6400101,Batata-inglesa,263.5
-6400101,Batata-inglesa,111.736
-6400101,Batata-inglesa,111.736
-6400101,Batata-inglesa,31.443
-6400101,Batata-inglesa,86.0
-6400303,Mandioquinha salsa (batata-baroa),76.0
-6400303,Mandioquinha salsa (batata-baroa),91.74
-6400303,Mandioquinha salsa (batata-baroa),91.74
 6400303,Mandioquinha salsa (batata-baroa),76.0
 6400304,Cenoura amarela (batata-baroa),76.0
 6400401,Batata-doce,76.0
-6400401,Batata-doce,76.0
-6400401,Batata-doce,90.0
-6400401,Batata-doce,351.28
-6400401,Batata-doce,91.74
-6400401,Batata-doce,91.74
-6400401,Batata-doce,76.0
 6400501,Inhame,100.0
-6400501,Inhame,100.0
-6400501,Inhame,90.0
-6400501,Inhame,115.74
-6400501,Inhame,115.74
-6400501,Inhame,115.74
-6400501,Inhame,31.443
 6400508,Quicaré,100.0
 6400601,Mandioca,125.0
-6400601,Mandioca,125.0
-6400601,Mandioca,125.0
-6400601,Mandioca,162.7367
-6400601,Mandioca,162.7367
-6400601,Mandioca,104.8
-6400601,Mandioca,154.6
-6400601,Mandioca,162.7367
-6400601,Mandioca,31.443
-6400601,Mandioca,125.0
-6400609,Aipim,125.0
-6400609,Aipim,125.0
-6400609,Aipim,162.7367
-6400609,Aipim,162.7367
-6400609,Aipim,162.7367
-6400609,Aipim,104.8
-6400609,Aipim,154.6
-6400609,Aipim,162.7367
-6400609,Aipim,31.443
 6400609,Aipim,125.0
 6400610,Macaxeira,125.0
-6400610,Macaxeira,125.0
-6400610,Macaxeira,125.0
-6400610,Macaxeira,162.7367
 6400701,Cará,100.0
-6400701,Cará,115.74
-6400701,Cará,115.74
-6400701,Cará,115.74
-6400701,Cará,100.0
-6400701,Cará,31.443
 6400713,Inhame caraquento (cará),100.0
 6400802,Batata (não especificada),86.0
-6400802,Batata (não especificada),86.0
-6400802,Batata (não especificada),86.0
-6400802,Batata (não especificada),86.0
-6400802,Batata (não especificada),263.5
-6400802,Batata (não especificada),111.736
-6400802,Batata (não especificada),73.6
-6400802,Batata (não especificada),101.39
-6400802,Batata (não especificada),111.736
-6400802,Batata (não especificada),111.736
-6400802,Batata (não especificada),31.443
-6400802,Batata (não especificada),86.0
 6400908,Mandioquinha,76.0
-6400908,Mandioquinha,116.4
-6400908,Mandioquinha,91.74
-6400908,Mandioquinha,91.74
 6401001,Rabanete,16.0
-6401001,Rabanete,18.0
-6401001,Rabanete,18.0
 6401101,Beterraba,43.0
-6401101,Beterraba,44.0
-6401101,Beterraba,67.62
-6401101,Beterraba,44.0
-6401101,Beterraba,31.443
-6401101,Beterraba,43.0
-6401201,Cenoura,41.0
-6401201,Cenoura,35.0
-6401201,Cenoura,60.47
-6401201,Cenoura,60.47
-6401201,Cenoura,32.8
-6401201,Cenoura,60.47
-6401201,Cenoura,56.74
-6401201,Cenoura,35.0
-6401201,Cenoura,60.47
-6401201,Cenoura,31.443
 6401201,Cenoura,41.0
 6401301,Nabo,22.0
-6401301,Nabo,47.736
 6401601,Açafrão,310.0
 6401801,Batata-inglesa orgânica,263.5
 6500101,Creme de arroz,148.323
@@ -177,26 +81,8 @@ Código do alimento,Descrição do alimento,Calorias
 6502102,Flocos de cereais,365.0
 6502105,Vitaflocos,78.243
 6502403,Mini pizza semipronta,252.49
-6502403,Mini pizza semipronta,252.49
-6502403,Mini pizza semipronta,252.49
-6502403,Mini pizza semipronta,252.49
-6502403,Mini pizza semipronta,252.49
 6502501,Fibra de soja,70.0
 6502603,Minipastel,319.807
-6503401,Macarrão ,158.0
-6503401,Macarrão ,158.0
-6503401,Macarrão ,158.0
-6503401,Macarrão ,158.0
-6503401,Macarrão ,186.677
-6503401,Macarrão ,186.677
-6503401,Macarrão ,186.677
-6503401,Macarrão ,103.725
-6503401,Macarrão ,158.99
-6503401,Macarrão ,186.677
-6503401,Macarrão ,182.22
-6503401,Macarrão ,158.0
-6503401,Macarrão ,186.677
-6503401,Macarrão ,158.0
 6503401,Macarrão ,158.0
 6503501,Purê de batata,115.161
 6503601,Bife vegetal,142.372
@@ -215,7 +101,6 @@ Código do alimento,Descrição do alimento,Calorias
 6505701,Complemento alimentar de qualquer sabor,369.152
 6505902,Sucrilhos de milho light,365.0
 6506003,Mini pizza semipronta light,255.571
-6506302,Macarrão instantâneo light,189.862
 6506302,Macarrão instantâneo light,189.862
 6506401,Proteína de soja orgânica,142.372
 6573225,Macarrão com carne,120.586
@@ -246,78 +131,21 @@ Código do alimento,Descrição do alimento,Calorias
 6700101,Alface,15.0
 6700201,Bertalha,45.3
 6700301,Chicória,17.0
-6700301,Chicória,58.883
-6700301,Chicória,58.883
-6700301,Chicória,58.883
 6700304,Escarola,52.88
 6700501,Couve,30.0
-6700501,Couve,26.0
-6700501,Couve,47.13
-6700501,Couve,47.13
-6700501,Couve,25.6
-6700501,Couve,47.13
-6700501,Couve,43.846
-6700501,Couve,26.0
-6700501,Couve,47.13
-6700501,Couve,26.0
-6700501,Couve,26.0
 6700601,Couve-flor,23.0
-6700601,Couve-flor,23.0
-6700601,Couve-flor,55.38
-6700601,Couve-flor,137.44
-6700601,Couve-flor,55.38
-6700601,Couve-flor,23.0
-6700601,Couve-flor,23.0
-6700701,Espinafre,23.0
-6700701,Espinafre,23.0
-6700701,Espinafre,45.3
-6700701,Espinafre,23.0
 6700701,Espinafre,23.0
 6700801,Mostarda (verdura),26.0
-6700801,Mostarda (verdura),15.0
-6700801,Mostarda (verdura),43.68
-6700801,Mostarda (verdura),15.0
 6700901,Repolho,25.0
-6700901,Repolho,23.0
-6700901,Repolho,49.766
-6700901,Repolho,49.766
-6700901,Repolho,23.0
-6700901,Repolho,49.766
-6700901,Repolho,23.0
-6700901,Repolho,49.766
-6700901,Repolho,31.443
-6700901,Repolho,23.0
 6701101,Cebolinha,25.0
 6701301,Agrião,25.0
-6701301,Agrião,11.0
-6701301,Agrião,11.0
-6701301,Agrião,35.75
-6701301,Agrião,25.0
 6701401,Taioba,34.0
-6701401,Taioba,26.0
-6701401,Taioba,47.13
-6701501,Acelga,19.0
-6701501,Acelga,14.0
-6701501,Acelga,47.738
 6701501,Acelga,19.0
 6701505,Beterraba branca (acelga) ,14.0
 6701601,Almeirão,17.0
-6701601,Almeirão,22.0
-6701601,Almeirão,52.88
-6701601,Almeirão,22.0
 6701602,Radite,17.0
-6701602,Radite,52.88
-6701602,Radite,22.0
 6701704,Brócolis,34.0
-6701704,Brócolis,35.0
-6701704,Brócolis,181.23
-6701704,Brócolis,60.74
-6701704,Brócolis,60.74
-6701704,Brócolis,35.0
-6701704,Brócolis,35.0
 6701801,Serralha,23.0
-6701801,Serralha,23.0
-6701801,Serralha,45.3
 6701901,Caruru,26.0
 6701906,Cuxá,26.0
 6701907,Vinagreira ,26.0
@@ -332,99 +160,25 @@ Código do alimento,Descrição do alimento,Calorias
 6703003,Folha de aipim,30.0
 6703004,Folha de macaxeira,26.0
 6703101,Broto de feijão,30.0
-6703101,Broto de feijão,53.378
-6703306,Moranga,20.0
-6703306,Moranga,36.39
-6703306,Moranga,36.39
 6703306,Moranga,20.0
 6703701,Abobrinha,16.0
-6703701,Abobrinha,20.0
-6703701,Abobrinha,20.0
-6703701,Abobrinha,20.0
-6703701,Abobrinha,42.3
-6703701,Abobrinha,160.71
-6703701,Abobrinha,42.3
-6703701,Abobrinha,42.3
 6703805,Jerimum,20.0
-6703805,Jerimum,20.0
-6703901,Abóbora,20.0
-6703901,Abóbora,20.0
-6703901,Abóbora,20.0
-6703901,Abóbora,36.39
-6703901,Abóbora,36.39
-6703901,Abóbora,20.8
-6703901,Abóbora,36.39
-6703901,Abóbora,31.443
 6703901,Abóbora,20.0
 6704001,Pépino,15.0
 6704101,Chuchu,24.0
-6704101,Chuchu,24.0
-6704101,Chuchu,24.0
-6704101,Chuchu,49.09
-6704101,Chuchu,24.0
-6704101,Chuchu,49.09
-6704101,Chuchu,24.0
-6704101,Chuchu,49.09
-6704101,Chuchu,31.443
-6704201,Jiló,22.0
-6704201,Jiló,22.0
-6704201,Jiló,22.0
-6704201,Jiló,47.093
-6704201,Jiló,47.093
-6704201,Jiló,43.193
-6704201,Jiló,47.093
 6704201,Jiló,22.0
 6704301,Maxixe,14.0
-6704301,Maxixe,14.0
-6704301,Maxixe,36.94
-6704301,Maxixe,36.94
-6704306,Pepininho (maxixe),14.0
 6704306,Pepininho (maxixe),14.0
 6704401,Palmito in natura,28.0
-6704401,Palmito in natura,28.0
-6704401,Palmito in natura,28.0
-6704401,Palmito in natura,28.0
 6704409,Guariroba (palmito in natura),28.0
-6704409,Guariroba (palmito in natura),28.0
-6704409,Guariroba (palmito in natura),28.0
-6704410,Gueroba (palmito in natura),28.0
 6704410,Gueroba (palmito in natura),28.0
 6704501,Pimentão,20.0
 6705001,Quiabo,22.0
-6705001,Quiabo ,22.0
-6705001,Quiabo ,47.093
-6705001,Quiabo ,47.093
-6705001,Quiabo ,47.093
-6705001,Quiabo ,47.093
-6705001,Quiabo ,22.0
 6705101,Tomate,18.0
-6705201,Vagem,35.0
-6705201,Vagem,35.0
-6705201,Vagem,67.119
-6705201,Vagem,67.119
-6705201,Vagem,67.119
 6705201,Vagem,35.0
 6705301,Cogumelo in natura,28.0
 6705401,Berinjela,32.9
-6705401,Berinjela,35.0
-6705401,Berinjela,35.0
-6705401,Berinjela,75.55
-6705401,Berinjela,164.87
-6705401,Berinjela,75.55
-6705401,Berinjela ,35.0
-6705401,Berinjela,75.55
-6705401,Berinjela,35.0
 6705501,Ervilha em vagem,67.093
-6705501,Ervilha em vagem,67.093
-6705701,Cebola,40.0
-6705701,Cebola,44.0
-6705701,Cebola,44.0
-6705701,Cebola,44.0
-6705701,Cebola,63.118
-6705701,Cebola,63.118
-6705701,Cebola,40.0
-6705701,Cebola,60.147
-6705701,Cebola,40.0
 6705701,Cebola,40.0
 6705801,Catalonha,42.94
 6706101,Jardineira (seleta),47.0
@@ -437,15 +191,6 @@ Código do alimento,Descrição do alimento,Calorias
 6708001,Pimentão orgânico,20.0
 6709701,Orégano,306.0
 6801017,Pacová,78.0
-6801101,"Banana (ouro, prata, d´água, da terra, etc.)",89.0
-6801101,"Banana (ouro, prata, d´água, da terra, etc.)",89.0
-6801101,"Banana (ouro, prata, d´água, da terra, etc.)",89.0
-6801101,"Banana (ouro, prata, d´água, da terra, etc.)",213.105
-6801101,"Banana (ouro, prata, d´água, da terra, etc.)",213.105
-6801101,"Banana (ouro, prata, d´água, da terra, etc.)",195.411
-6801101,"Banana (ouro, prata, d´água, da terra, etc.)",89.0
-6801101,"Banana (ouro, prata, d´água, da terra, etc.)",112.036
-6801101,"Banana (ouro, prata, d´água, da terra, etc.)",112.036
 6801101,"Banana (ouro, prata, d´água, da terra, etc.)",89.0
 6801801,"Laranja (pera, seleta, lima, da terra, etc.)",47.0
 6801901,Lima,47.0
@@ -693,469 +438,121 @@ Código do alimento,Descrição do alimento,Calorias
 7010601,Leite de coco light,202.46
 7079202,Vinagrete,76.785
 7100101,Filé-mignon,204.0
-7100101,Filé-mignon,204.0
-7100101,Filé-mignon,204.0
-7100101,Filé-mignon,226.659
-7100101,Filé-mignon,242.837
-7100101,Filé-mignon,226.659
-7100101,Filé-mignon,168.0
-7100101,Filé-mignon,195.79
-7100101,Filé-mignon,223.137
-7100101,Filé-mignon,204.0
 7100201,Contrafilé,204.0
-7100201,Contrafilé,204.0
-7100201,Contrafilé,204.0
-7100201,Contrafilé,226.659
-7100201,Contrafilé,242.837
-7100201,Contrafilé,226.659
-7100201,Contrafilé,168.0
 7100205,Bisteca bovina,471.0
-7100205,Bisteca bovina,471.0
-7100205,Bisteca bovina,471.0
-7100205,Bisteca bovina,471.0
-7100205,Bisteca bovina,471.0
-7100205,Bisteca bovina,329.837
-7100205,Bisteca bovina,471.0
-7100205,Bisteca bovina,381.6
 7100301,Alcatra,204.0
-7100301,Alcatra ,204.0
-7100301,Alcatra,204.0
-7100301,Alcatra,204.0
-7100301,Alcatra,253.567
-7100301,Alcatra,253.567
-7100301,Alcatra,253.567
-7100301,Alcatra,168.0
-7100301,Alcatra,204.0
-7100301,Alcatra,253.567
 7100303,Maminha,199.0
-7100303,Maminha,199.0
-7100303,Maminha,248.567
-7100303,Maminha,164.0
 7100304,Picanha,204.0
-7100304,Picanha,204.0
-7100304,Picanha,204.0
-7100304,Picanha ,253.567
-7100304,Picanha ,253.567
 7100501,Patinho,199.0
-7100501,Patinho,199.0
-7100501,Patinho,199.0
-7100501,Patinho,248.567
-7100501,Patinho,248.567
-7100501,Patinho,164.0
-7100501,Patinho,248.567
 7100502,Cabeça de lombo (carne bovina),199.0
-7100502,Cabeça de lombo (carne bovina),199.0
-7100502,Cabeça de lombo (carne bovina),199.0
-7100502,Cabeça de lombo (carne bovina),248.567
-7100502,Cabeça de lombo (carne bovina),248.567
-7100502,Cabeça de lombo (carne bovina),248.567
 7100604,Posta branca,199.0
-7100604,Posta branca,248.567
-7100604,Posta branca,164.0
-7100606,Tatu (lagarto redondo),199.0
-7100606,Tatu (lagarto redondo),199.0
-7100606,Tatu (lagarto redondo),248.567
 7100606,Tatu (lagarto redondo),199.0
 7100607,Paulista,199.0
-7100607,Paulista,199.0
 7100608,Lombo paulista (carne bovina),199.0
-7100608,Lombo paulista (carne bovina),199.0
-7100608,Lombo paulista (carne bovina),248.567
-7100608,Lombo paulista (carne bovina),248.567
 7100702,Posta vermelha,199.0
 7100801,Acém,242.0
-7100801,Acém,242.0
-7100801,Acém,264.659
-7100801,Acém,280.837
-7100801,Acém,264.659
-7100801,Acém,264.659
 7100803,Agulha (acém),242.0
-7100803,Agulha (acém),242.0
-7100803,Agulha (acém),264.659
 7100905,Paleta ,242.0
-7100905,Paleta ,264.659
-7100905,Paleta ,198.4
-7100905,Paleta ,264.659
-7100908,Pá com osso,242.0
-7100908,Pá com osso,242.0
 7100908,Pá com osso,242.0
 7101001,Músculo bovino,199.0
-7101001,Músculo bovino,199.0
-7101001,Músculo bovino,164.0
-7101001,Músculo bovino,221.659
-7101001,Músculo bovino,63.941
 7101006,Chambaril,242.0
-7101006,Chambaril,242.0
-7101006,Chambaril,264.659
 7101009,Carne marica bovina,199.0
-7101009,Carne marica bovina,221.659
-7101009,Carne marica bovina,221.659
 7101011,Vazio (carne bovina),204.0
-7101011,Vazio (carne bovina),204.0
-7101011,Vazio (carne bovina),226.659
 7101101,Peito bovino,204.0
-7101101,Peito bovino,226.659
 7101202,Fraldinha (capa de filé),199.0
-7101202,Fraldinha (capa de filé),199.0
-7101202,Fraldinha (capa de filé),199.0
-7101202,Fraldinha (capa de filé),221.659
 7101203,Aba de filé ,242.0
-7101203,Aba de filé ,242.0
-7101203,Aba de filé ,264.659
 7101301,Costela bovina,365.0
-7101301,Costela bovina,365.0
-7101301,Costela bovina,365.0
-7101301,Costela bovina,365.0
-7101704,Jacaré (carne bovina de segunda c/ osso),365.0
-7101704,Jacaré (carne bovina de segunda c/ osso),365.0
 7101704,Jacaré (carne bovina de segunda c/ osso),365.0
 7101706,Filé de segunda,242.0
-7101706,Filé de segunda,242.0
-7101706,Filé de segunda,264.659
-7101706,Filé de segunda,280.837
-7101706,Filé de segunda,264.659
 7101801,Víscera bovina ,191.0
-7101801,Víscera bovina ,213.659
-7101806,Panelada (vísceras bovinas não especificadas),100.041
 7101806,Panelada (vísceras bovinas não especificadas),100.041
 7101901,Coração bovino,165.0
-7101901,Coração bovino,165.0
-7101901,Coração bovino,165.0
-7101901,Coração bovino,187.659
 7102001,Rim de boi ,158.0
 7102102,Bofe bovino,158.0
-7102102,Bofe bovino,180.659
-7102102,Bofe bovino,180.659
 7102201,Miolo de boi,151.0
 7102401,Tripa bovina,94.0
-7102401,Tripa bovina,94.0
-7102401,Tripa bovina,94.0
-7102401,Tripa bovina,116.659
-7102402,Dobradinha fresca,94.0
-7102402,Dobradinha fresca,94.0
-7102402,Dobradinha fresca,80.0
-7102402,Dobradinha fresca,116.659
 7102402,Dobradinha fresca,94.0
 7102403,Fato bovino,94.0
-7102403,Fato bovino,116.659
 7102404,Fato caprino,94.0
 7102501,Fígado bovino,191.0
-7102501,Fígado bovino,191.0
-7102501,Fígado bovino,191.0
-7102501,Fígado bovino,191.0
-7102501,Fígado bovino,213.659
-7102501,Fígado bovino,229.837
-7102501,Fígado bovino,213.659
-7102501,Fígado bovino,157.6
-7102501,Fígado bovino,213.659
-7102501,Fígado bovino,213.659
 7102601,Cupim,330.1002908333333
-7102601,Cupim,330.1002908333333
-7102601,Cupim,363.0783133833333
 7102701,Língua bovina,284.0
-7102701,Língua bovina,284.0
-7102701,Língua bovina,284.0
-7102701,Língua bovina,306.659
-7102701,Língua bovina,232.0
-7102701,Língua bovina,306.659
 7102801,Rabada de boi,365.0
-7103101,Mocotó bovino,214.0
-7103101,Mocotó bovino,214.0
-7103101,Mocotó bovino,63.941
 7103101,Mocotó bovino,214.0
 7103104,Braço bovino,221.659
 7103105,Mão bovina,214.0
 7103301,Carré ,397.0
-7103301,Carré ,397.0
-7103301,Carré ,397.0
-7103301,Carré ,397.0
-7103305,Bisteca suína,397.0
-7103305,Bisteca suína,397.0
-7103305,Bisteca suína,397.0
-7103305,Bisteca suína,397.0
-7103305,Bisteca suína,397.0
-7103305,Bisteca suína,397.0
 7103305,Bisteca suína,397.0
 7103401,Pernil suíno,289.0
-7103401,Pernil suíno,289.0
-7103401,Pernil suíno,338.567
-7103401,Pernil suíno,338.567
 7103403,Quarto suíno,289.0
 7103501,Costela suína,397.0
-7103501,Costela suína,397.0
-7103501,Costela suína,397.0
-7103501,Costela suína,397.0
-7103501,Costela suína,397.0
-7103501,Costela suína,397.0
-7103501,Costela suína,322.4
-7103501,Costela suína,397.0
-7103501,Costela suína,397.0
 7103701,Lombo suíno,289.0
-7103701,Lombo suíno,289.0
-7103701,Lombo suíno,289.0
-7103701,Lombo suíno,338.567
 7103801,Toucinho,541.0
 7103903,Míudo suíno,165.0
 7103906,Arrasto suíno,100.041
 7103907,Sarapatel suíno fresco,100.041
 7104101,Carne suína,289.0
-7104101,Carne suína,289.0
-7104101,Carne suína,289.0
-7104101,Carne suína,289.0
-7104101,Carne suína,338.567
-7104101,Carne suína,338.567
-7104101,Carne suína,338.567
-7104101,Carne suína,236.0
-7104101,Carne suína,338.567
-7104101,Carne suína,338.567
-7104101,Carne suína,289.0
 7104301,Carne moída ,214.0
-7104301,Carne moída,214.0
-7104301,Carne moída,214.0
-7104301,Carne moída,236.659
-7104301,Carne moída,236.659
-7104301,Carne moída,236.659
-7104301,Carne moída,176.0
-7104301,Carne moída,203.79
-7104301,Carne moída,236.659
-7104301,Carne moída,236.659
-7104301,Carne moída,63.941
-7104301,Carne moída,214.0
 7104302,Guisado ,242.0
 7104501,Tripa suína,233.0
-7104501,Tripa suína,255.659
 7104601,Figado suíno,165.0
-7104601,Figado suíno,165.0
-7104601,Figado suíno,187.659
 7104701,Língua suína,271.0
-7104701,Língua suína,271.0
-7104701,Língua suína,271.0
-7104701,Língua suína,293.659
-7104701,Língua suína,293.659
 7105001,Orelha suína fresca,214.0
 7105103,Sarrabulho,100.041
 7105203,Mocotó suíno,214.0
 7105401,Carne de cabrito ,143.0
-7105401,Carne de cabrito ,143.0
-7105401,Carne de cabrito ,143.0
 7105402,Carne de bode,143.0
-7105402,Carne de bode ,143.0
-7105402,Carne de bode ,143.0
-7105402,Carne de bode ,165.659
 7105403,Carne caprina,143.0
-7105403,Carne caprina,143.0
-7105403,Carne caprina,165.659
-7105403,Carne caprina,165.659
 7105405,Carne de caprino,143.0
-7105405,Carne de caprino,143.0
-7105405,Carne de caprino,165.659
 7105601,Carne de carneiro,204.0
-7105601,Carne de carneiro,204.0
-7105601,Carne de carneiro,204.0
-7105601,Carne de carneiro,253.567
-7105601,Carne de carneiro,253.567
 7105602,Carne de ovelha,204.0
-7105602,Carne de ovelha,204.0
-7105602,Carne de ovelha,204.0
-7105602,Carne de ovelha,253.567
 7105801,Mocotó de caprino,214.0
 7106301,Pernil ,289.0
-7106301,Pernil ,289.0
-7106301,Pernil ,289.0
-7106301,Pernil ,338.567
 7106401,Lagarto bovino ,199.0
-7106401,Lagarto bovino ,199.0
-7106401,Lagarto bovino ,248.567
-7106401,Lagarto bovino ,248.567
-7106401,Lagarto bovino ,164.0
 7106501,Alcatra suína,289.0
-7106501,Alcatra suína,289.0
-7106501,Alcatra suína ,338.567
 7107102,Brachola,204.0
 7107103,Bife role cru,204.0
 7107204,Buchada de bode,125.0
 7107501,Suã suína,397.0
-7107501,Suã suína,397.0
-7107601,Carne de outros animais,242.0
-7107601,Carne de outros animais,242.0
-7107601,Carne de outros animais,242.0
-7107601,Carne de outros animais,242.0
-7107601,Carne de outros animais,264.659
-7107601,Carne de outros animais,264.659
-7107601,Carne de outros animais,198.4
-7107601,Carne de outros animais,264.659
 7107601,Carne de outros animais,242.0
 7107603,Carne da paca,212.0
-7107603,Carne da paca,212.0
-7107603,Carne da paca,234.659
 7107611,Carne de jacaré,92.0
-7107611,Carne de jacaré,114.659
 7107615,Carne de capivara,212.0
-7107615,Carne de capivara,212.0
-7107615,Carne de capivara,234.659
-7107617,Carne de cotia,212.0
 7107617,Carne de cotia,212.0
 7107622,Carne de jabuti,117.0
 7107801,Carne de primeira ,204.0
-7107801,Carne de primeira ,204.0
-7107801,Carne de primeira ,204.0
-7107801,Carne de primeira ,226.659
-7107801,Carne de primeira ,242.837
-7107801,Carne de primeira ,226.659
-7107801,Carne de primeira ,168.0
-7107801,Carne de primeira ,195.79
-7107801,Carne de primeira ,223.137
 7107804,Chuleta,204.0
-7107804,Chuleta,204.0
-7107804,Chuleta,204.0
-7107804,Chuleta,226.659
-7107805,Filé não especificado,204.0
-7107805,Filé não especificado,204.0
-7107805,Filé não especificado,204.0
-7107805,Filé não especificado,204.0
-7107805,Filé não especificado,226.659
-7107805,Filé não especificado,242.837
-7107805,Filé não especificado,226.659
-7107805,Filé não especificado,168.0
-7107805,Filé não especificado,223.137
-7107805,Filé não especificado,226.659
 7107805,Filé não especificado,204.0
 7108107,Miúdo de bode ,191.0
 7108301,Pé suíno fresco,214.0
-7108301,Pé suíno fresco,214.0
-7108301,Pé suíno fresco,236.659
 7109101,Carne bovina ,242.0
-7109101,Carne bovina ,242.0
-7109101,Carne bovina,242.0
-7109101,Carne bovina,242.0
-7109101,Carne bovina,264.659
-7109101,Carne bovina,280.837
-7109101,Carne bovina ,264.659
-7109101,Carne bovina ,198.4
-7109101,Carne bovina ,226.19
-7109101,Carne bovina ,261.137
-7109101,Carne bovina,261.137
-7109101,Carne bovina ,242.0
-7109101,Carne bovina,264.659
-7109101,Carne bovina ,63.941
-7109101,Carne bovina ,242.0
-7110601,Lombo não especificado,289.0
-7110601,Lombo não especificado,289.0
-7110601,Lombo não especificado,289.0
-7110601,Lombo não especificado,338.567
 7110601,Lombo não especificado,289.0
 7110801,Músculo não especificado,199.0
-7110801,Músculo não especificado,221.659
-7110902,Ossada não especificada,164.0
-7110902,Ossada não especificada,186.659
-7110902,Ossada não especificada,164.0
 7110902,Ossada não especificada,164.0
 7111202,Carne de segunda ,242.0
-7111202,Carne de segunda ,242.0
-7111202,Carne de segunda ,242.0
-7111202,Carne de segunda ,242.0
-7111202,Carne de segunda ,264.659
-7111202,Carne de segunda ,280.837
-7111202,Carne de segunda ,264.659
-7111202,Carne de segunda ,198.4
-7111202,Carne de segunda ,261.137
-7111202,Carne de segunda ,264.659
 7111401,Contrafilé orgânico,204.0
 7111405,Bisteca orgânica,471.0
-7111405,Bisteca orgânica,471.0
 7111702,Cabeça de lombo (carne bovina) orgânica,199.0
-7111702,Cabeça de lombo (carne bovina) orgânica,199.0
-7111702,Cabeça de lombo (carne bovina) orgânica,248.567
 7111806,Tatu (lagarto redondo) orgânico,199.0
 7200101,"Peixe de mar (inteiro, em posta, em filé, etc.)  ",117.0
-7200101,"Peixe de mar (inteiro, em posta, em filé, etc.)  ",117.0
-7200101,"Peixe de mar (inteiro, em posta, em filé, etc.)  ",117.0
-7200101,"Peixe de mar (inteiro, em posta, em filé, etc.)  ",117.0
-7200101,"Peixe de mar (inteiro, em posta, em filé, etc.)  ",139.66
-7200101,"Peixe de mar (inteiro, em posta, em filé, etc.)  ",155.84
-7200101,"Peixe de mar (inteiro, em posta, em filé, etc.)  ",98.4
-7200101,"Peixe de mar (inteiro, em posta, em filé, etc.)  ",140.05
-7200101,"Peixe de mar (inteiro, em posta, em filé, etc.)  ",139.66
 7200401,"Peixe de mar salgado (inteiro, em posta, em filé, etc.) ",117.0
-7200401,"Peixe de mar salgado (inteiro, em posta, em filé, etc.) ",117.0
-7200401,"Peixe de mar salgado (inteiro, em posta, em filé, etc.) ",117.0
-7200401,"Peixe de mar salgado (inteiro, em posta, em filé, etc.) ",139.66
-7200401,"Peixe de mar salgado (inteiro, em posta, em filé, etc.) ",155.84
-7200401,"Peixe de mar salgado (inteiro, em posta, em filé, etc.) ",140.05
-7200401,"Peixe de mar salgado (inteiro, em posta, em filé, etc.) ",139.66
-7260101,Camarão,99.0
-7260101,Camarão ,99.0
-7260101,Camarão,99.0
-7260101,Camarão,99.0
-7260101,Camarão,121.66
-7260101,Camarão,137.84
-7260101,Camarão,121.66
-7260101,Camarão,84.0
-7260101,Camarão,125.65
-7260101,Camarão,121.66
-7260101,Camarão,121.66
 7260101,Camarão,99.0
 7261101,Siri,102.0
-7261101,Siri,140.837
-7261101,Siri,124.66
 7261120,Bau (siri),102.0
 7261121,Goiá,102.0
 7262101,Caranguejo,102.0
-7262101,Caranguejo,102.0
-7262101,Caranguejo,102.0
 7262105,Guaiamu,102.0
-7263101,Marisco,148.0
-7263101,Marisco,170.659
-7263101,Marisco,123.2
 7263101,Marisco,148.0
 7264101,Ostra,137.0
 7265101,Lula,143.837
 7266101,Sururu,148.0
-7266101,Sururu,170.659
-7270401,Bacalhau,117.0
-7270401,Bacalhau,117.0
-7270401,Bacalhau,139.66
-7270401,Bacalhau,155.84
-7270401,Bacalhau,139.66
-7270401,Bacalhau,98.4
-7270401,Bacalhau,139.66
 7270401,Bacalhau,117.0
 7273101,Ovas de peixe (qualquer espécie),204.0
-7273101,Ovas de peixe (qualquer espécie),226.659
-7400101,"Peixe de água doce (inteiro, em posta, em filé, etc.) ",117.0
-7400101,"Peixe de água doce (inteiro, em posta, em filé, etc.) ",117.0
-7400101,"Peixe de água doce (inteiro, em posta, em filé, etc.) ",117.0
-7400101,"Peixe de água doce (inteiro, em posta, em filé, etc.) ",117.0
-7400101,"Peixe de água doce (inteiro, em posta, em filé, etc.) ",139.66
-7400101,"Peixe de água doce (inteiro, em posta, em filé, etc.) ",155.84
-7400101,"Peixe de água doce (inteiro, em posta, em filé, etc.) ",139.66
-7400101,"Peixe de água doce (inteiro, em posta, em filé, etc.) ",98.4
-7400101,"Peixe de água doce (inteiro, em posta, em filé, etc.) ",126.19
-7400101,"Peixe de água doce (inteiro, em posta, em filé, etc.) ",139.66
 7400101,"Peixe de água doce (inteiro, em posta, em filé, etc.) ",117.0
 7400401,"Peixe de água doce salgado (inteiro, em posta, em filé, etc.) ",117.0
-7400401,"Peixe de água doce salgado (inteiro, em posta, em filé, etc.) ",117.0
-7400401,"Peixe de água doce salgado (inteiro, em posta, em filé, etc.) ",117.0
-7400401,"Peixe de água doce salgado (inteiro, em posta, em filé, etc.) ",139.66
-7400401,"Peixe de água doce salgado (inteiro, em posta, em filé, etc.) ",155.84
-7400401,"Peixe de água doce salgado (inteiro, em posta, em filé, etc.) ",98.4
-7400401,"Peixe de água doce salgado (inteiro, em posta, em filé, etc.) ",139.66
 7444101,Tracajá,117.0
 7600101,"Peixe não especificado (inteiro, em posta, em filé, etc.)",117.0
-7600101,"Peixe não especificado (inteiro, em posta, em filé, etc.)",117.0
-7600101,"Peixe não especificado (inteiro, em posta, em filé, etc.)",117.0
-7600101,"Peixe não especificado (inteiro, em posta, em filé, etc.)",117.0
-7600101,"Peixe não especificado (inteiro, em posta, em filé, etc.)",139.66
-7600101,"Peixe não especificado (inteiro, em posta, em filé, etc.)",155.84
-7600101,"Peixe não especificado (inteiro, em posta, em filé, etc.)",139.66
-7600101,"Peixe não especificado (inteiro, em posta, em filé, etc.)",98.4
-7600101,"Peixe não especificado (inteiro, em posta, em filé, etc.)",140.05
-7600101,"Peixe não especificado (inteiro, em posta, em filé, etc.)",139.66
 7600401,"Peixe não especificado salgado (inteiro, em posta, em filé, etc.)",117.0
-7600401,"Peixe não especificado salgado (inteiro, em posta, em filé, etc.)",117.0
-7600401,"Peixe não especificado salgado (inteiro, em posta, em filé, etc.)",117.0
-7600401,"Peixe não especificado salgado (inteiro, em posta, em filé, etc.)",139.66
-7600401,"Peixe não especificado salgado (inteiro, em posta, em filé, etc.)",155.84
 7700101,Azeitona,145.0
 7700201,Ervilha em conserva,69.0
 7700202,Petit-pois,69.0
@@ -1171,9 +568,6 @@ Código do alimento,Descrição do alimento,Calorias
 7701405,Creme de legumes (sopa desidratada),10.548
 7701406,Yakissoba ,527.0
 7701501,Milho verde com ervilha em conserva,79.519
-7701501,Milho verde com ervilha em conserva,79.519
-7701501,Milho verde com ervilha em conserva,79.519
-7701501,Milho verde com ervilha em conserva,79.519
 7701901,Feijoada,181.589
 7702001,Feijão branco com dobradinha em conserva,136.383
 7702101,Cozido,87.327
@@ -1186,9 +580,6 @@ Código do alimento,Descrição do alimento,Calorias
 7702604,Almôndega ao molho em conserva,203.517
 7702704,Kitute suíno,178.0
 7702705,Presuntada,178.0
-7702707,Fiambre ,178.0
-7702707,Fiambre ,178.0
-7702707,Fiambre ,178.0
 7702707,Fiambre ,178.0
 7702801,Salsicha em conserva,269.08
 7703002,Sardinha em conserva,208.0
@@ -1204,208 +595,43 @@ Código do alimento,Descrição do alimento,Calorias
 7706106,Yakissoba (sopa de legumes desidratada) light,80.041
 7706302,Atum em conserva light,116.0
 7800103,Frango inteiro,239.0
-7800103,Frango inteiro,239.0
-7800103,Frango inteiro,239.0
-7800103,Frango inteiro,239.0
-7800103,Frango inteiro,261.659
-7800103,Frango inteiro,277.837
-7800103,Frango inteiro,261.659
-7800103,Frango inteiro,196.0
-7800103,Frango inteiro,261.659
 7800301,Parte de galinha ou frango não especificada,239.0
-7800301,Parte de galinha ou frango não especificada,239.0
-7800301,Parte de galinha ou frango não especificada,239.0
-7800301,Parte de galinha ou frango não especificada,239.0
-7800301,Parte de galinha ou frango não especificada,261.659
-7800301,Parte de galinha ou frango não especificada,277.837
-7800301,Parte de galinha ou frango não especificada,261.659
-7800301,Parte de galinha ou frango não especificada,196.0
-7800301,Parte de galinha ou frango não especificada,261.659
-7800301,Parte de galinha ou frango não especificada,239.0
-7800302,Frango em pedaços,239.0
-7800302,Frango em pedaços,239.0
-7800302,Frango em pedaços,239.0
-7800302,Frango em pedaços,239.0
-7800302,Frango em pedaços,261.659
-7800302,Frango em pedaços,277.837
-7800302,Frango em pedaços,261.659
-7800302,Frango em pedaços,196.0
-7800302,Frango em pedaços,226.785
-7800302,Frango em pedaços,261.659
-7800302,Frango em pedaços,192.137
-7800302,Frango em pedaços,261.659
-7800302,Frango em pedaços,31.471
 7800302,Frango em pedaços,239.0
 7800303,Galinha em pedaços ,239.0
-7800303,Galinha em pedaços ,239.0
-7800303,Galinha em pedaços ,239.0
-7800303,Galinha em pedaços ,261.659
-7800303,Galinha em pedaços ,277.837
-7800303,Galinha em pedaços ,261.659
-7800303,Galinha em pedaços ,196.0
-7800303,Galinha em pedaços ,226.785
-7800303,Galinha em pedaços ,261.659
-7800304,Carne de galinha ,239.0
-7800304,Carne de galinha ,239.0
-7800304,Carne de galinha ,239.0
-7800304,Carne de galinha ,239.0
-7800304,Carne de galinha ,261.659
-7800304,Carne de galinha ,277.837
-7800304,Carne de galinha ,239.0
-7800304,Carne de galinha ,261.659
-7800304,Carne de galinha ,226.785
-7800304,Carne de galinha ,261.659
-7800304,Carne de galinha ,31.471
 7800304,Carne de galinha ,239.0
 7800401,Peito de galinha ou frango,173.0
-7800401,Peito de galinha ou frango,173.0
-7800401,Peito de galinha ou frango,173.0
-7800401,Peito de galinha ou frango,173.0
-7800401,Peito de galinha ou frango,195.659
-7800401,Peito de galinha ou frango,211.837
-7800401,Peito de galinha ou frango,195.659
-7800401,Peito de galinha ou frango,143.2
-7800401,Peito de galinha ou frango,170.99
-7800401,Peito de galinha ou frango,195.659
-7800401,Peito de galinha ou frango,31.471
-7800401,Peito de galinha ou frango,173.0
-7800402,Filé de frango,173.0
-7800402,Filé de frango,173.0
-7800402,Filé de frango,173.0
-7800402,Filé de frango,173.0
-7800402,Filé de frango,195.659
-7800402,Filé de frango,211.837
-7800402,Filé de frango,195.659
-7800402,Filé de frango,143.2
-7800402,Filé de frango,170.99
-7800402,Filé de frango,195.659
-7800402,Filé de frango,195.659
 7800402,Filé de frango,173.0
 7800602,Carcaça de galinha ou frango,173.0
-7800602,Carcaça de galinha ou frango,173.0
-7800602,Carcaça de galinha ou frango,195.659
-7800602,Carcaça de galinha ou frango,195.659
-7800602,Carcaça de galinha ou frango,195.659
 7800701,Asa de galinha ou frango,290.0
-7800701,Asa de galinha ou frango,290.0
-7800701,Asa de galinha ou frango,290.0
-7800701,Asa de galinha ou frango,290.0
-7800701,Asa de galinha ou frango,312.659
-7800701,Asa de galinha ou frango,328.837
-7800701,Asa de galinha ou frango,312.659
-7800701,Asa de galinha ou frango,236.8
-7800701,Asa de galinha ou frango,312.659
 7800702,Drumete de galinha ou frango,213.0
-7800702,Drumete de galinha ou frango,213.0
-7800702,Drumete de galinha ou frango,213.0
-7800702,Drumete de galinha ou frango,235.659
-7800702,Drumete de galinha ou frango,235.659
-7800702,Drumete de galinha ou frango,175.2
 7800801,Pescoço de galinha ou frango,300.0
-7800801,Pescoço de galinha ou frango,300.0
-7800801,Pescoço de galinha ou frango,322.659
-7800801,Pescoço de galinha ou frango,322.659
-7800801,Pescoço de galinha ou frango,272.59
 7800901,Pé de galinha ou frango,215.0
-7800901,Pé de galinha ou frango,215.0
-7800901,Pé de galinha ou frango,215.0
-7800901,Pé de galinha ou frango,237.659
-7800901,Pé de galinha ou frango,237.659
-7800901,Pé de galinha ou frango,176.8
-7800901,Pé de galinha ou frango,237.659
 7801001,Miúdo de galinha ou frango ,167.0
-7801001,Miúdo de galinha ou frango ,167.0
-7801001,Miúdo de galinha ou frango ,189.659
-7801001,Miúdo de galinha ou frango ,138.4
-7801001,Miúdo de galinha ou frango ,31.471
 7801101,Moela de galinha ou frango,146.0
-7801101,Moela de galinha ou frango,146.0
-7801101,Moela de galinha ou frango,168.659
-7801101,Moela de galinha ou frango,168.659
-7801101,Moela de galinha ou frango,121.6
-7801101,Moela de galinha ou frango,149.39
-7801101,Moela de galinha ou frango,168.659
-7801101,Moela de galinha ou frango,31.471
-7801202,Coração de frango,185.0
-7801202,Coração de frango,185.0
-7801202,Coração de frango,185.0
-7801202,Coração de frango,207.659
 7801202,Coração de frango,185.0
 7801301,Fígado de galinha ou frango,167.0
-7801301,Fígado de galinha ou frango,167.0
-7801301,Fígado de galinha ou frango,189.659
 7801407,Canja ,31.471
 7801702,Peru em pedaço não especificado,207.0
-7801702,Peru em pedaço não especificado,207.0
-7801702,Peru em pedaço não especificado,229.659
-7801702,Peru em pedaço não especificado,229.659
-7801801,Peito de peru,140.0
-7801801,Peito de peru,140.0
-7801801,Peito de peru,140.0
-7801801,Peito de peru,140.0
-7801801,Peito de peru,162.659
-7801801,Peito de peru,162.659
 7801801,Peito de peru,140.0
 7802101,Asa de peru,229.0
-7802101,Asa de peru,229.0
-7802701,Chester ,207.0
-7802701,Chester ,207.0
 7802701,Chester ,207.0
 7802702,Tender,178.0
 7802801,Nambu ,219.0
 7802901,Nuggets de frango,273.016
-7802901,Nuggets de frango,273.016
-7802901,Nuggets de frango,273.016
-7802901,Nuggets de frango,273.016
-7802901,Nuggets de frango,273.016
-7802902,Steak de frango,211.837
-7802902,Steak de frango,211.837
-7802902,Steak de frango,211.837
-7802902,Steak de frango,211.837
-7802902,Steak de frango,211.837
 7802902,Steak de frango,211.837
 7803001,Codorna,269.659
 7803201,Pé e asa de galinha ou frango,290.0
-7803201,Pé e asa de galinha ou frango,290.0
-7803201,Pé e asa de galinha ou frango,312.659
 7803301,Ovo de galinha,155.0
-7803301,Ovo de galinha,155.0
-7803301,Ovo de galinha,155.0
-7803301,Ovo de galinha,222.591
-7803301,Ovo de galinha,155.0
-7803301,Ovo de galinha,155.0
-7803301,Ovo de galinha,222.591
-7803301,Ovo de galinha,214.181
-7803301,Ovo de galinha,155.0
-7803301,Ovo de galinha,155.0
-7803301,Ovo de galinha,155.0
-7803301,Ovo de galinha,155.0
-7803501,Ovo de codorna,155.0
-7803501,Ovo de codorna,155.0
-7803501,Ovo de codorna,222.591
-7803501,Ovo de codorna,155.0
 7803501,Ovo de codorna,155.0
 7803702,"Galinha-d'angola abatida, congelada ou viva",247.0
-7803702,"Galinha-d'angola abatida, congelada ou viva",247.0
 7803703,Capote ,247.0
-7803703,Capote ,247.0
-7803703,Capote ,269.659
 7803707,Mutum ,239.0
-7803907,Pato em pedaços,201.0
 7803907,Pato em pedaços,201.0
 7803908,Peito de pato,223.659
 7803913,Carne de pato ,201.0
-7803913,Carne de pato ,201.0
-7803913,Carne de pato ,223.659
-7805401,Peito de peru light,140.0
-7805401,Peito de peru light,140.0
 7805401,Peito de peru light,140.0
 7805501,Frango inteiro orgânico,239.0
-7805501,Frango inteiro orgânico,239.0
 7805702,Filé de frango orgânico,173.0
-7805702,Filé de frango orgânico,173.0
-7805702,Filé de frango orgânico,195.659
-7805702,Filé de frango orgânico,211.837
 7900101,Leite de vaca integral,60.025
 7900201,Leite de vaca fresco ,60.025
 7900301,Leite de cabra,69.029
@@ -1592,79 +818,19 @@ Código do alimento,Descrição do alimento,Calorias
 8010534,Bolacha doce diet,453.915
 8010601,Bolo de banana,300.054
 8100101,Carne-seca,313.0
-8100101,Carne-seca,313.0
-8100101,Carne-seca,313.0
-8100101,Carne-seca,347.00404
-8100101,Carne-seca,347.00404
-8100101,Carne-seca,255.2
-8100101,Carne-seca,347.00404
 8100102,Carne de charque,313.0
-8100102,Carne de charque,313.0
-8100102,Carne de charque,313.0
-8100102,Carne de charque,313.0
-8100102,Carne de charque,347.00404
-8100102,Carne de charque,347.00404
-8100102,Carne de charque,255.2
-8100102,Carne de charque,347.00404
-8100103,Jabá,313.0
-8100103,Jabá,347.00404
-8100103,Jabá,347.00404
 8100103,Jabá,313.0
 8100201,Carne de sol,313.0
-8100201,Carne de sol,313.0
-8100201,Carne de sol,313.0
-8100201,Carne de sol,313.0
-8100201,Carne de sol,347.00404
-8100201,Carne de sol,347.00404
 8100202,Carne do sertão,313.0
-8100202,Carne do sertão,313.0
-8100202,Carne do sertão,347.00404
-8100502,Hambúrguer de carne bovina,214.0
-8100502,Hambúrguer de carne bovina,214.0
-8100502,Hambúrguer de carne bovina,214.0
-8100502,Hambúrguer de carne bovina,214.0
-8100502,Hambúrguer de carne bovina,236.659
-8100502,Hambúrguer de carne bovina,176.0
 8100502,Hambúrguer de carne bovina,214.0
 8100802,Copa de porco defumada,248.659
 8101005,Bacon,541.0
 8101101,Hambúrguer de frango,206.14
-8101101,Hambúrguer de frango,206.14
-8101101,Hambúrguer de frango,206.14
-8101101,Hambúrguer de frango,266.665
-8101101,Hambúrguer de frango,266.665
-8101101,Hambúrguer de frango,206.14
 8102101,Salsicha no varejo,321.051
-8102101,Salsicha no varejo,321.051
-8102101,Salsicha no varejo,321.051
-8102101,Salsicha no varejo,321.051
-8102101,Salsicha no varejo,321.051
-8102101,Salsicha no varejo,321.051
-8102101,Salsicha no varejo,289.431
-8102101,Salsicha no varejo,321.6
-8102101,Salsicha no varejo,321.051
-8102101,Salsicha no varejo,321.051
-8102101,Salsicha no varejo,321.051
-8102101,Salsicha no varejo,321.051
-8102204,"Linguiça (suína, bovina, mista, etc.)",396.0
-8102204,"Linguiça (suína, bovina, mista, etc.)",396.0
-8102204,"Linguiça (suína, bovina, mista, etc.)",396.0
-8102204,"Linguiça (suína, bovina, mista, etc.)",396.0
-8102204,"Linguiça (suína, bovina, mista, etc.)",396.0
-8102204,"Linguiça (suína, bovina, mista, etc.)",396.0
-8102204,"Linguiça (suína, bovina, mista, etc.)",396.0
-8102204,"Linguiça (suína, bovina, mista, etc.)",321.6
-8102204,"Linguiça (suína, bovina, mista, etc.)",396.0
-8102204,"Linguiça (suína, bovina, mista, etc.)",396.0
 8102204,"Linguiça (suína, bovina, mista, etc.)",396.0
 8102207,Linguiça de frango,244.0
-8102207,Linguiça de frango,244.0
-8102207,Linguiça de frango,244.0
-8102207,Linguiça de frango,244.0
-8102207,Linguiça de frango,245.0
 8102401,Chouriço,379.0
 8102402,Morcela,379.0
-8102403,Morcilha,379.0
 8102403,Morcilha,379.0
 8102501,Paio,339.0
 8102601,Mortadela,307.0
@@ -1673,12 +839,6 @@ Código do alimento,Descrição do alimento,Calorias
 8102801,Blanquet de peru,126.0
 8102901,Presunto ,226.0
 8103001,Hambúrguer de peru,195.964
-8103001,Hambúrguer de peru,195.964
-8103001,Hambúrguer de peru,256.489
-8103101,Hambúrguer não especificado,214.0
-8103101,Hambúrguer não especificado,214.0
-8103101,Hambúrguer não especificado,214.0
-8103101,Hambúrguer não especificado,236.659
 8103101,Hambúrguer não especificado,214.0
 8103601,Apresuntado,178.0
 8103901,Pururuca de porco,544.0
@@ -1686,16 +846,6 @@ Código do alimento,Descrição do alimento,Calorias
 8104001,"Patê (fígado, calabresa, frango, presunto, etc.)",326.0
 8104101,Carne de aves defumada,195.659
 8104601,Carne salgada não especificada,313.0
-8104601,Carne salgada não especificada,313.0
-8104601,Carne salgada não especificada,313.0
-8104601,Carne salgada não especificada,347.00404
-8104601,Carne salgada não especificada,347.00404
-8104601,Carne salgada não especificada,255.2
-8104601,Carne salgada não especificada,313.0
-8104904,Mini chicken empanado,273.016
-8104904,Mini chicken empanado,273.016
-8104904,Mini chicken empanado,273.016
-8104904,Mini chicken empanado,273.016
 8104904,Mini chicken empanado,273.016
 8105001,Mortadela light,211.0
 8105201,Salsicha no varejo light,154.0
