@@ -1,1122 +1,1122 @@
-Código do alimento,Descrição do alimento,Calorias
-6300101,"Arroz (polido, parboilizado, agulha, agulhinha, etc.)",135.6229457071333
-6300201,Arroz integral,130.9456437535
-6300701,Milho (em grão),160.141
-6300706,Canjiquinha de milho em grão,79.68
-6300707,Xerém de milho,62.952
-6301001,Amendoim (em grão) in natura,567.0
-6301101,Ervilha em grão,109.093
-6301201,Fava (em grão),85.617
-6301204,Mangalô amargo em grão,85.617
-6301603,Feijão-de-corda,121.332
-6301634,Feijão-verde,121.332
-6302001,Semente de linhaça,534.0
-6302602,Andu,97.405
-6302801,Grão de bico,188.481
-6302901,Lentilha,136.277
-6303001,Soja em grão,196.342
-6303102,"Feijão (preto, mulatinho, roxo, rosinha, etc.)",97.405
-6303501,Quirera não especificada,62.952
-6304034,Feijão-verde orgânico,121.332
-6304101,Feijão orgânico,97.405
-6304201,Pipoca  light,445.938
-6304301,Arroz  orgânico,135.6229457071333
-6304401,Arroz integral orgânico,130.9456437535
-6304602,Feijão-de-soja orgânico,196.342
-6304901,Quinoa,135.465
-6400101,Batata-inglesa,86.0
-6400303,Mandioquinha salsa (batata-baroa),76.0
-6400304,Cenoura amarela (batata-baroa),76.0
-6400401,Batata-doce,76.0
-6400501,Inhame,100.0
-6400508,Quicaré,100.0
-6400601,Mandioca,125.0
-6400609,Aipim,125.0
-6400610,Macaxeira,125.0
-6400701,Cará,100.0
-6400713,Inhame caraquento (cará),100.0
-6400802,Batata (não especificada),86.0
-6400908,Mandioquinha,76.0
-6401001,Rabanete,16.0
-6401101,Beterraba,43.0
-6401201,Cenoura,41.0
-6401301,Nabo,22.0
-6401601,Açafrão,310.0
-6401801,Batata-inglesa orgânica,263.5
-6500101,Creme de arroz,148.323
-6500104,Arrozina,148.323
-6500105,Mucilon,78.243
-6500108,Mingau de arroz,148.323
-6500202,Croquinhos de arroz,387.0
-6500301,Farinha de aveia,384.0
-6500401,Aveia em flocos,384.0
-6500601,Fubá de milho,60.58
-6500603,Farinha de milho,351.0
-6500608,Puba de milho,311.0
-6500609,Puba de fubá,311.0
-6500613,Milho moído,160.141
-6500614,Mingau de milho,78.243
-6500702,Amido de milho,78.243
-6500705,Amido de arroz,148.323
-6500801,Cremogema,78.243
-6500802,Vitamilho,128.3
-6500804,Creme de milho,78.243
-6500902,Sucrilhos de milho,377.0
-6500903,Cereal matinal de milho em flocos,377.0
-6501301,Germe de trigo,360.0
-6501303,Fibra de trigo,216.0
-6501304,Fibra de cereal trigo,216.0
-6501401,Farinha de mandioca,361.0
-6501410,Farinha de copioba,361.0
-6501415,Farinha d'água,361.0
-6501416,Cruera,361.0
-6501502,Goma de mandioca,336.0
-6501505,Sagu de mandioca,116.992
-6501510,Farinha de tapioca,331.0
-6501511,Farinha beiju,331.0
-6501515,Sagu de tapioca,116.992
-6501516,Tapioca de goma,336.0
-6502001,Farinha láctea,396.67
-6502101,Neston,345.8
-6502102,Flocos de cereais,365.0
-6502105,Vitaflocos,78.243
-6502403,Mini pizza semipronta,252.49
-6502501,Fibra de soja,70.0
-6502603,Minipastel,319.807
-6503401,Macarrão ,158.0
-6503501,Purê de batata,115.161
-6503601,Bife vegetal,142.372
-6503603,Carne vegetal,142.372
-6503604,Pasta de soja,62.0
-6503605,Carne de soja,142.372
-6503702,Amendoim moído,567.0
-6504101,Granola ,388.0
-6504601,Musli,388.0
-6504701,Mix de cereais,388.0
-6504801,Miojo,189.862
-6504802,Macarrão instantâneo,189.862
-6505101,Sustagem,369.152
-6505601,Proteína de soja,142.372
-6505603,Proteína vegetal,142.372
-6505701,Complemento alimentar de qualquer sabor,369.152
-6505902,Sucrilhos de milho light,365.0
-6506003,Mini pizza semipronta light,255.571
-6506302,Macarrão instantâneo light,189.862
-6506401,Proteína de soja orgânica,142.372
-6573225,Macarrão com carne,120.586
-6573226,Macarrão com peixe,163.168
-6600101,Coco-da-baía (seco ou verde),354.0
-6600301,Castanha portuguesa,131.0
-6600401,Pinhão,174.36990200000002
-6600501,Amêndoa,578.0
-6600601,Avelã,628.0
-6600701,Castanha-do-pará,656.0
-6600801,Castanha de caju,574.0
-6600912,Butiá,105.0
-6601108,Tucumã,474.0
-6601208,Coco de mucajá,404.2818766666667
-6601501,Noz (nogueira),654.0
-6601706,Açaí ,262.0
-6601707,Juçara,262.0
-6601709,Uaçaí,262.0
-6601712,Jussara,262.0
-6601805,Pupunha,28.0
-6601902,Bacaba,212.0
-6601904,Bacabuçu,212.0
-6602001,Castanha-da-índia,656.0
-6602201,Pistache,557.0
-6602301,Buriti ,145.0
-6602401,Coco ,354.0
-6602601,Patauá ,105.0
-6700101,Alface,15.0
-6700201,Bertalha,45.3
-6700301,Chicória,17.0
-6700304,Escarola,52.88
-6700501,Couve,30.0
-6700601,Couve-flor,23.0
-6700701,Espinafre,23.0
-6700801,Mostarda (verdura),26.0
-6700901,Repolho,25.0
-6701101,Cebolinha,25.0
-6701301,Agrião,25.0
-6701401,Taioba,34.0
-6701501,Acelga,19.0
-6701505,Beterraba branca (acelga) ,14.0
-6701601,Almeirão,17.0
-6701602,Radite,17.0
-6701704,Brócolis,34.0
-6701801,Serralha,23.0
-6701901,Caruru,26.0
-6701906,Cuxá,26.0
-6701907,Vinagreira ,26.0
-6701913,Cariru,26.0
-6702001,Rúcula,25.0
-6702105,Jambu,32.0
-6702201,Língua de vaca (verdura),30.0
-6702301,Alcachofra,53.0
-6702501,Bredo,26.0
-6702604,Salsão (aipo),18.0
-6702801,Erva-doce,31.0
-6703003,Folha de aipim,30.0
-6703004,Folha de macaxeira,26.0
-6703101,Broto de feijão,30.0
-6703306,Moranga,20.0
-6703701,Abobrinha,16.0
-6703805,Jerimum,20.0
-6703901,Abóbora,20.0
-6704001,Pépino,15.0
-6704101,Chuchu,24.0
-6704201,Jiló,22.0
-6704301,Maxixe,14.0
-6704306,Pepininho (maxixe),14.0
-6704401,Palmito in natura,28.0
-6704409,Guariroba (palmito in natura),28.0
-6704410,Gueroba (palmito in natura),28.0
-6704501,Pimentão,20.0
-6705001,Quiabo,22.0
-6705101,Tomate,18.0
-6705201,Vagem,35.0
-6705301,Cogumelo in natura,28.0
-6705401,Berinjela,32.9
-6705501,Ervilha em vagem,67.093
-6705701,Cebola,40.0
-6705801,Catalonha,42.94
-6706101,Jardineira (seleta),47.0
-6706102,Seleta (jardineira),47.0
-6706201,Alho,149.0
-6706301,Alho-poró,54.479
-6707301,Broto de alfafa,23.0
-6707801,Alface orgânica,15.0
-6707901,Tomate orgânico,18.0
-6708001,Pimentão orgânico,20.0
-6709701,Orégano,306.0
-6801017,Pacová,78.0
-6801101,"Banana (ouro, prata, d´água, da terra, etc.)",89.0
-6801801,"Laranja (pera, seleta, lima, da terra, etc.)",47.0
-6801901,Lima,47.0
-6802001,"Limão (comum, galego, etc.)",30.0
-6802201,Tangerina,53.0
-6802202,Mexerica,53.0
-6802217,Bergamota,53.0
-6802218,Mimosa,53.0
-6802223,Tanja,53.0
-6802227,Maricota,53.0
-6802407,Laranjinha japonesa,47.0
-6802501,Cana-de-açúcar,73.58
-6802601,Abacaxi,48.0
-6802602,Ananás,48.0
-6802701,Abacate,120.0
-6802801,Caqui,70.0
-6802901,Figo,74.0
-6803001,Maçã,52.0
-6803101,Mamão,39.0
-6803108,Papaia,39.0
-6803201,Manga,65.0
-6803215,Manguito,65.0
-6803301,Maracujá,97.0
-6803401,Melancia,30.0
-6803501,Melão,36.0
-6803601,pera,58.0
-6803701,Pêssego,39.0
-6803801,Fruta-de-conde,74.0
-6803802,Pinha (fruta-de-conde),74.0
-6803803,Ata,74.0
-6803901,Uva,69.0
-6803912,Uva passa,299.0
-6804001,Jenipapo ,113.0
-6804101,Jaca,94.0
-6804201,Goiaba,68.0
-6804203,Araçá-açu (goiaba),68.0
-6804301,Ameixa,46.0
-6804401,Caju,43.0
-6804501,Cereja,63.0
-6804601,Cajá-manga,46.0
-6804602,Cajarana,46.0
-6804701,Taperebá,70.0
-6804702,Acaja (taberebá),46.0
-6804801,Carambola,31.0
-6804901,Jabuticaba,73.0
-6805001,Graviola,62.0
-6805201,Morango,32.0
-6805301,Jambo,27.0
-6805401,Atemoia ,74.0
-6805601,Mangaba,43.0
-6805701,Araçá,68.0
-6805801,Nêspera,47.0
-6805901,Fruta-pão,103.0
-6806001,Sapoti,96.0
-6806101,Uxi,252.0
-6806201,Tamarindo,239.0
-6806301,Cacau,74.0
-6806401,Pitomba ,66.0
-6806501,Bacuri,105.0
-6806601,Ingá,60.0
-6806701,Pequi,152.0
-6806801,Pitanga ,41.0
-6806901,Ciriguela,76.0
-6807001,Murici,66.0
-6807101,Umbu,37.0
-6807103,Imbu,37.0
-6807202,Biribá,74.0
-6807301,Cupuaçu,49.0
-6807401,Nectarina,44.0
-6807501,Mari,281.1
-6807601,Romã,56.0
-6807701,Acerola,32.0
-6807801,Kiwi,61.0
-6808001,Abiu,62.0
-6808201,Jurubeba,126.0
-6808401,Fruta (não especificada),89.0
-6808601,Maçã orgânica,52.0
-6808901,Acerola orgânica,32.0
-6809901,Amora,43.0
-6810201,Jamelão (jamburão),73.0
-6900302,Demerara,387.0
-6900304,Açúcar mascavo,380.0
-6900401,Rapadura,296.0
-6900402,Alfenim de cana,296.0
-6900403,Batida (rapadura),380.0
-6900501,Sorvete de qualquer sabor industrializado,205.995
-6900502,Picolé de qualquer sabor industrializado,79.0
-6900601,Chiclete,396.0
-6900603,Bala,394.0
-6900604,Caramelo (bala),382.0
-6900605,Drops,394.0
-6900606,Pastilha,396.0
-6900607,Pirulito,394.0
-6900609,Goma de mascar,396.0
-6900610,Jujuba,375.0
-6900701,Tablete de chocolate,535.0
-6900702,Barra de chocolate,535.0
-6900706,Confete,492.0
-6900801,Chocolate em pó de qualquer marca,364.237
-6900818,Ovomaltine,388.0
-6900821,Achocolatado em pó,400.0
-6900822,Toddynho,83.322
-6900901,Bombom de qualquer marca,373.0
-6900904,Trufa ,487.872
-6901001,Geleia de frutas de qualquer marca ou sabor,278.0
-6901002,Mousse de qualquer sabor (Geleia) ,331.892
-6901101,Geleia de mocotó,120.25
-6901201,Doce de frutas em pasta de qualquer sabor,291.3
-6901203,Pasta de amendoim,588.0
-6901204,Pessegada,77.0
-6901206,Marmelada,278.0
-6901209,Figada,88.0
-6901211,Goiabada,291.3
-6901214,Caju em pasta,291.3
-6901224,Mariola,291.3
-6901301,Doce de frutas em calda de qualquer sabor,77.0
-6901401,Doce de frutas cristalizado de qualquer sabor,291.3
-6901501,Melado,296.0
-6901602,Mel ,304.0
-6901701,Gelatina de qualquer sabor,278.0
-6901801,Adoçante artificial,0.0
-6902004,Merengue,358.256
-6902301,Schimier de cana,296.0
-6902401,Fruta seca ou desidratada,240.0
-6902402,Passa,299.0
-6902601,Pudim de qualquer sabor,131.148
-6902607,Danette pudim,131.148
-6902701,Manjar,284.979
-6902901,Cuscuz,128.3
-6902902,Cuscuz de tapioca,116.992
-6903001,Maria-mole,444.921
-6903101,Cocada,404.8
-6903102,Quebra-queixo,404.8
-6903201,Doce de amendoim,451.58
-6903202,Pé de moleque,474.0
-6903203,Paçoca,472.17
-6903204,Torrão de amendoim,460.339
-6903205,Paçoquinha de amendoim,472.17
-6903207,Amendoim caramelizado,474.0
-6903208,Amendoim amanteigado,567.0
-6903209,Amendoim achocolatado,519.0
-6903303,Amendoim apimentado,567.0
-6903304,Amendoim cozido,318.0
-6903601,Brigadeiro,334.476
-6903701,Bomba de qualquer tipo,339.255
-6903801,Mil folhas,440.331
-6903901,Queijadinha,404.8
-6904101,Doce à base de ovos,131.148
-6904104,Caçarola italiana,284.979
-6904105,Quindim,131.148
-6904108,Fios de ovos,131.148
-6904201,Doce à base de leite,319.695
-6904202,Pavê de qualquer sabor,306.428
-6904203,Ambrosia,144.228
-6904204,Leite geleificado,131.148
-6904205,Chandele de qualquer sabor,131.148
-6904302,Mumu ,319.695
-6904401,Canudinho recheado,123.26
-6904501,Sarolho,336.0
-6904502,Beiju,336.0
-6904601,Schimier de fruta (exceto de cana),278.0
-6904701,Beijo de moça,387.0
-6904801,Picolé ensacado,79.0
-6904807,Geladinho,122.687
-6905001,Churro,401.659
-6905101,Pamonha,171.0
-6905401,Algodão-doce,387.0
-6905603,Io-Iô crem (chocolate em creme),350.0
-6905801,Ovo de páscoa,535.0
-6905804,Kinder ovo,535.0
-6905901,Torrone,460.339
-6906001,Arroz-doce,108.49
-6906404,Polpa de coco,402.0
-6906501,Diet shake,335.524
-6906502,Concentrado alimentar diet shake,335.524
-6906602,Açúcar ,387.0
-6907001,Açúcar light,400.0
-6907201,Barra de cereais,352.919
-6907202,Barra de cereais salgada,352.919
-6907203,Barra de cereais doce,352.919
-6907301,Sobremesa de qualquer tipo (exceto infantil),131.148
-6907401,Rabanada,293.0
-6907501,Milk shake ,161.089
-6907901,Geleia diet,52.637
-6908001,Doce de frutas diet,52.637
-6908401,Pastéis de santa clara,131.148
-6908501,Suspiro,358.256
-6909301,Doce de frutas cristalizado de qualquer sabor diet,52.637
-6909601,Sorvete de qualquer sabor industrializado light,188.994
-6909701,Sorvete de qualquer sabor industrializado diet,190.0
-6909803,Bala light,235.0
-6909901,Chiclete diet,240.0
-6909903,Bala diet,235.0
-6910002,Barra de chocolate light,539.785
-6910102,Barra de chocolate diet,539.785
-6910221,Achocolatado em pó light,337.701
-6910321,Achocolatado em pó diet,337.701
-6910322,Toddynho diet,73.289
-6910401,Bombom de qualquer marca light,373.0
-6910501,Bombom de qualquer marca diet,373.0
-6910502,Bombom caramelizado de qualquer marca diet,373.0
-6910601,Geleia de frutas de qualquer marca ou sabor light,179.005
-6910604,Geleia light,179.005
-6910605,Geleia de frutas light,179.005
-6910701,Doce de frutas em barra ou pasta light,179.005
-6910702,Doce de frutas em pasta light,179.005
-6910801,Pudim de qualquer sabor light,119.148
-6910808,Pudim danette light,119.148
-6910901,Pudim de qualquer sabor diet,119.148
-6911201,Doce de leite light,292.291
-6911301,Doce de leite diet,292.291
-6912501,Barra de cereais diet,403.449
-6912502,Barra de cereais doce diet,403.449
-6912801,Milk shake diet,335.524
-6913001,Cocada diet,404.8
-6913101,Doce de amendoim diet,599.0
-6913103,Paçoca diet,599.0
-6913108,Amendoim amanteigado diet,477.86
-6913801,Doce à base de leite diet,292.291
-6913901,Gelatina de qualquer sabor light,179.005
-6914001,Adoçante light,365.0
-6914002,Adoçante em pó light,365.0
-6914003,Adoçante liquido light,0.0
-7001501,Mostarda molho,67.0
-7002304,Hortelã,1.001
-7002401,Alcaparra em conserva,23.0
-7002601,Coentro,279.0
-7003601,Molho de soja,53.0
-7003604,Shoyo,53.0
-7003801,Leite de coco,202.46
-7004301,Maionese (molho),261.052
-7004701,Massa de tomate,38.0
-7004801,Molho de tomate,24.0
-7004802,Ketchup,97.0
-7004803,Catchup,97.0
-7006101,Pimenta em pó,255.0
-7007101,Tucupi em caldo sem pimenta,4.869
-7007502,Creme de queijo,209.657
-7007701,Caldo de peixe,16.0
-7007901,Caldo de tomate,37.654
-7009102,Gergelim,631.0
-7010301,Tomate seco,213.0
-7010401,Maionese (molho) light,156.578
-7010501,Molho de soja light,53.127
-7010601,Leite de coco light,202.46
-7079202,Vinagrete,76.785
-7100101,Filé-mignon,204.0
-7100201,Contrafilé,204.0
-7100205,Bisteca bovina,471.0
-7100301,Alcatra,204.0
-7100303,Maminha,199.0
-7100304,Picanha,204.0
-7100501,Patinho,199.0
-7100502,Cabeça de lombo (carne bovina),199.0
-7100604,Posta branca,199.0
-7100606,Tatu (lagarto redondo),199.0
-7100607,Paulista,199.0
-7100608,Lombo paulista (carne bovina),199.0
-7100702,Posta vermelha,199.0
-7100801,Acém,242.0
-7100803,Agulha (acém),242.0
-7100905,Paleta ,242.0
-7100908,Pá com osso,242.0
-7101001,Músculo bovino,199.0
-7101006,Chambaril,242.0
-7101009,Carne marica bovina,199.0
-7101011,Vazio (carne bovina),204.0
-7101101,Peito bovino,204.0
-7101202,Fraldinha (capa de filé),199.0
-7101203,Aba de filé ,242.0
-7101301,Costela bovina,365.0
-7101704,Jacaré (carne bovina de segunda c/ osso),365.0
-7101706,Filé de segunda,242.0
-7101801,Víscera bovina ,191.0
-7101806,Panelada (vísceras bovinas não especificadas),100.041
-7101901,Coração bovino,165.0
-7102001,Rim de boi ,158.0
-7102102,Bofe bovino,158.0
-7102201,Miolo de boi,151.0
-7102401,Tripa bovina,94.0
-7102402,Dobradinha fresca,94.0
-7102403,Fato bovino,94.0
-7102404,Fato caprino,94.0
-7102501,Fígado bovino,191.0
-7102601,Cupim,330.1002908333333
-7102701,Língua bovina,284.0
-7102801,Rabada de boi,365.0
-7103101,Mocotó bovino,214.0
-7103104,Braço bovino,221.659
-7103105,Mão bovina,214.0
-7103301,Carré ,397.0
-7103305,Bisteca suína,397.0
-7103401,Pernil suíno,289.0
-7103403,Quarto suíno,289.0
-7103501,Costela suína,397.0
-7103701,Lombo suíno,289.0
-7103801,Toucinho,541.0
-7103903,Míudo suíno,165.0
-7103906,Arrasto suíno,100.041
-7103907,Sarapatel suíno fresco,100.041
-7104101,Carne suína,289.0
-7104301,Carne moída ,214.0
-7104302,Guisado ,242.0
-7104501,Tripa suína,233.0
-7104601,Figado suíno,165.0
-7104701,Língua suína,271.0
-7105001,Orelha suína fresca,214.0
-7105103,Sarrabulho,100.041
-7105203,Mocotó suíno,214.0
-7105401,Carne de cabrito ,143.0
-7105402,Carne de bode,143.0
-7105403,Carne caprina,143.0
-7105405,Carne de caprino,143.0
-7105601,Carne de carneiro,204.0
-7105602,Carne de ovelha,204.0
-7105801,Mocotó de caprino,214.0
-7106301,Pernil ,289.0
-7106401,Lagarto bovino ,199.0
-7106501,Alcatra suína,289.0
-7107102,Brachola,204.0
-7107103,Bife role cru,204.0
-7107204,Buchada de bode,125.0
-7107501,Suã suína,397.0
-7107601,Carne de outros animais,242.0
-7107603,Carne da paca,212.0
-7107611,Carne de jacaré,92.0
-7107615,Carne de capivara,212.0
-7107617,Carne de cotia,212.0
-7107622,Carne de jabuti,117.0
-7107801,Carne de primeira ,204.0
-7107804,Chuleta,204.0
-7107805,Filé não especificado,204.0
-7108107,Miúdo de bode ,191.0
-7108301,Pé suíno fresco,214.0
-7109101,Carne bovina ,242.0
-7110601,Lombo não especificado,289.0
-7110801,Músculo não especificado,199.0
-7110902,Ossada não especificada,164.0
-7111202,Carne de segunda ,242.0
-7111401,Contrafilé orgânico,204.0
-7111405,Bisteca orgânica,471.0
-7111702,Cabeça de lombo (carne bovina) orgânica,199.0
-7111806,Tatu (lagarto redondo) orgânico,199.0
-7200101,"Peixe de mar (inteiro, em posta, em filé, etc.)  ",117.0
-7200401,"Peixe de mar salgado (inteiro, em posta, em filé, etc.) ",117.0
-7260101,Camarão,99.0
-7261101,Siri,102.0
-7261120,Bau (siri),102.0
-7261121,Goiá,102.0
-7262101,Caranguejo,102.0
-7262105,Guaiamu,102.0
-7263101,Marisco,148.0
-7264101,Ostra,137.0
-7265101,Lula,143.837
-7266101,Sururu,148.0
-7270401,Bacalhau,117.0
-7273101,Ovas de peixe (qualquer espécie),204.0
-7400101,"Peixe de água doce (inteiro, em posta, em filé, etc.) ",117.0
-7400401,"Peixe de água doce salgado (inteiro, em posta, em filé, etc.) ",117.0
-7444101,Tracajá,117.0
-7600101,"Peixe não especificado (inteiro, em posta, em filé, etc.)",117.0
-7600401,"Peixe não especificado salgado (inteiro, em posta, em filé, etc.)",117.0
-7700101,Azeitona,145.0
-7700201,Ervilha em conserva,69.0
-7700202,Petit-pois,69.0
-7700401,Milho verde em conserva,81.0
-7700501,Palmito em conserva,28.0
-7700601,Cogumelo em conserva,50.736
-7700602,Champignon em conserva,50.736
-7700701,Aspargo em conserva,19.0
-7700901,Repolho em conserva,19.0
-7700902,Chucrute,19.0
-7701101,Legume não especificado em conserva,47.0
-7701404,Creme de cebola (sopa desidratada),46.312
-7701405,Creme de legumes (sopa desidratada),10.548
-7701406,Yakissoba ,527.0
-7701501,Milho verde com ervilha em conserva,79.519
-7701901,Feijoada,181.589
-7702001,Feijão branco com dobradinha em conserva,136.383
-7702101,Cozido,87.327
-7702302,Pasta de carne em conserva,245.648
-7702402,Pasta de presunto em conserva,276.458
-7702502,Pasta de galinha em conserva,214.364
-7702601,Carne bovina em conserva,242.0
-7702602,Almôndega ,214.85
-7702603,Kitute bovino,242.0
-7702604,Almôndega ao molho em conserva,203.517
-7702704,Kitute suíno,178.0
-7702705,Presuntada,178.0
-7702707,Fiambre ,178.0
-7702801,Salsicha em conserva,269.08
-7703002,Sardinha em conserva,208.0
-7703402,Atum em conserva,198.0
-7703701,Pepino em conserva,12.0
-7703902,Pasta de peixe em conserva,198.0
-7704001,Picles,12.0
-7705201,Nabo em conserva,43.259
-7705401,Strogonoff ,147.675
-7706001,Salmão em conserva,136.0
-7706104,Creme de cebola (sopa desidratada) light,46.312
-7706105,Creme de legumes (sopa desidratada) light,10.548
-7706106,Yakissoba (sopa de legumes desidratada) light,80.041
-7706302,Atum em conserva light,116.0
-7800103,Frango inteiro,239.0
-7800301,Parte de galinha ou frango não especificada,239.0
-7800302,Frango em pedaços,239.0
-7800303,Galinha em pedaços ,239.0
-7800304,Carne de galinha ,239.0
-7800401,Peito de galinha ou frango,173.0
-7800402,Filé de frango,173.0
-7800602,Carcaça de galinha ou frango,173.0
-7800701,Asa de galinha ou frango,290.0
-7800702,Drumete de galinha ou frango,213.0
-7800801,Pescoço de galinha ou frango,300.0
-7800901,Pé de galinha ou frango,215.0
-7801001,Miúdo de galinha ou frango ,167.0
-7801101,Moela de galinha ou frango,146.0
-7801202,Coração de frango,185.0
-7801301,Fígado de galinha ou frango,167.0
-7801407,Canja ,31.471
-7801702,Peru em pedaço não especificado,207.0
-7801801,Peito de peru,140.0
-7802101,Asa de peru,229.0
-7802701,Chester ,207.0
-7802702,Tender,178.0
-7802801,Nambu ,219.0
-7802901,Nuggets de frango,273.016
-7802902,Steak de frango,211.837
-7803001,Codorna,269.659
-7803201,Pé e asa de galinha ou frango,290.0
-7803301,Ovo de galinha,155.0
-7803501,Ovo de codorna,155.0
-7803702,"Galinha-d'angola abatida, congelada ou viva",247.0
-7803703,Capote ,247.0
-7803707,Mutum ,239.0
-7803907,Pato em pedaços,201.0
-7803908,Peito de pato,223.659
-7803913,Carne de pato ,201.0
-7805401,Peito de peru light,140.0
-7805501,Frango inteiro orgânico,239.0
-7805702,Filé de frango orgânico,173.0
-7900101,Leite de vaca integral,60.025
-7900201,Leite de vaca fresco ,60.025
-7900301,Leite de cabra,69.029
-7900601,Leite em pó integral,480.0
-7900710,Leite em pó desnatado,358.0
-7900801,Leite em pó ,480.0
-7900901,Leite condensado,319.695
-7900903,Leite beijinho,319.695
-7901001,Creme de leite,292.0
-7901101,Chantilly,276.39
-7901201,Iogurte de qualquer sabor,98.694
-7901203,Iogurte desnatado,56.0
-7901204,Iogurte natural,61.0
-7901301,Yakult de qualquer sabor,69.3
-7901303,Bebida láctea,91.13
-7901304,Leite fermentado,50.226
-7901401,Coalhada,61.0
-7901501,Manteiga com ou sem sal,717.0
-7901505,Manteiga de garrafa,717.0
-7901602,Margarina com ou sem sal,719.0
-7901701,Queijo prato,302.0
-7901703,Queijo colonial,302.0
-7901705,Queijo de colônia,302.0
-7901801,Queijo muçarela,318.0
-7901803,Muçarela,318.0
-7901807,Muçarela de búfala,318.0
-7901809,Queijo de búfala,318.0
-7901901,Queijo de reino,356.0
-7902001,Queijo de minas,240.0
-7902003,Queijo de manteiga,318.0
-7902004,Quechimia,240.0
-7902005,Queijo de coalho,373.0
-7902008,Queijo canastra,240.0
-7902201,Queijo ricota,174.0
-7902301,Leite de soja com sabor ,64.051
-7902303,Ades original,54.0
-7902403,Queijo ralado,431.0
-7902501,Queijo provolone,351.0
-7902801,Queijo polenguinho,349.0
-7902901,Requeijão,231.0
-7902902,Queijo cremoso,231.0
-7903001,Queijo não especificado,375.0
-7903101,Leite com sabor,83.322
-7903102,Leite achocolatado,83.322
-7903109,Leite aRomãtizado,83.322
-7903110,Bebida achocolatada,83.322
-7903201,Nata,195.0
-7903301,Queijo gorgonzola,353.0
-7903402,Tofu,61.0
-7903501,Leite de soja em pó,408.331
-7903601,Leite de vaca desnatado,34.154
-7903702,Leite de vaca semidesnatado,42.0
-7903801,Leite não especificado pasteurizado,60.025
-7903901,Iogurte de qualquer sabor light,102.0
-7904001,Iogurte de qualquer sabor diet,51.354
-7904201,Margarina light,253.685
-7904301,Leite de vaca integral orgânico,60.025
-7904401,Leite de vaca fresco orgânico,60.025
-7904601,Leite semidesnatado de vaca orgânico,42.0
-7904701,Creme de leite orgânico,292.0
-7904801,Iogurte de qualquer sabor orgânico,98.694
-7904803,Iogurte de qualquer sabor desnatado orgânico,95.0
-7904804,Iogurte natural de qualquer sabor orgânico,61.0
-7905103,Muçarela light,302.0
-7905104,Queijo muçarela light,302.0
-7905201,Leite de soja com sabor light,53.205
-7905203,Ades light,39.37
-7905601,Creme de leite light,59.0
-7905901,Queijo prato light,297.295
-7906001,Queijo de minas light,90.0
-7906005,Queijo de coalho light,297.295
-7906201,Queijo ricota light,92.692
-7906303,Queijo ralado light,265.0
-7906401,Queijo polenguinho light,231.0
-7906501,Requeijão light,231.0
-7906601,Queijo não especificado light,90.0
-7906702,Leite achocolatado light,63.0
-7906710,Bebida achocolatada light,63.0
-7906801,Leite com sabor diet,73.289
-7906802,Leite achocolatado diet,73.289
-7906810,Bebida achocolatada diet,73.289
-7906901,Leite de soja em pó light,379.579
-7907001,Leite em pó com sabor,405.0
-7907101,Manteiga com ou sem sal light,347.315
-7907301,Queijo de minas frescal orgânico,240.0
-7907305,Queijo de coalho frescal orgânico,373.0
-8000103,Pão de hambúrguer,279.0
-8000105,Pão de sal,300.0
-8000201,Pão doce,355.226
-8000203,Chineque,355.226
-8000218,Chineque com farofa,355.226
-8000229,Pão de mel,508.364
-8000234,Panetone,355.95
-8000237,Bisnaguinha,310.0
-8000240,Croissant,455.157
-8000501,Pão de forma industrializado de qualquer marca,266.0
-8000801,Pão de queijo,363.0
-8001101,Pão de milho,316.623
-8001401,Pão integral,247.0
-8001501,Pão não especificado,300.0
-8001901,Torrada de qualquer pão,377.0
-8002001,Rosca doce,422.97
-8002002,Rosquinha doce,443.0
-8002101,Rosca salgada,245.75
-8002106,Rosquinha salgada,432.0
-8002201,Biscoito salgado,432.0
-8002205,Presuntinho biscoito,508.99
-8002212,Biscoito de polvilho,436.72
-8002225,Bolacha salgada,432.0
-8002227,Chips (salgadinhos),558.86
-8002230,Baconzitos,508.99
-8002236,Biscoito salgado integral,412.432
-8002301,Biscoito doce,443.0
-8002302,Cavaco chinês,443.0
-8002305,Sequilho,443.0
-8002306,Tareço,443.0
-8002309,Solda,432.0
-8002315,Brevidade,371.2187724479208
-8002334,Bolacha doce,443.0
-8002335,Maria maluca (bolacha doce),443.0
-8002405,Quebra-quebra,443.0
-8002502,Rocambole,339.255
-8002503,Cuca de qualquer tipo,355.226
-8002601,Bolo de milho,311.0
-8002604,Amidomil (bolinho),311.0
-8002605,Angusor de milho,311.0
-8002609,Grustoli (bolinho doce),421.368
-8002701,Bolo de aipim,324.0
-8002702,Bolo de tapioca,324.0
-8002703,Bolo de macaxeira,324.0
-8002704,Bolo de goma,324.0
-8002801,Bolo de batata-doce,324.0
-8002901,Bolo de arroz,324.0
-8003101,Bolo de cará,324.0
-8003501,Tortas doces de qualquer sabor,119.665
-8003601,Tortas salgadas de qualquer sabor,249.549
-8003701,Sonho,378.787
-8003702,Filhos (bolinho de farinha de trigo e ovos),421.368
-8003801,Bolo de chocolate,312.8
-8003902,Brioche,366.837
-8004001,Bolo de laranja,360.833
-8004101,Bolo de coco,317.24
-8004201,Bolo de cenoura,344.855
-8004601,Bolo de trigo,286.6
-8004701,Broa,392.0
-8004801,Biscoito recheado,472.0
-8004807,Waffer (biscoito),430.32
-8004809,Alfajores (biscoito),505.21
-8004810,Bolacha recheada,472.0
-8004813,Rosca recheada,620.2
-8004814,Rosquinha recheada de qualquer sabor,472.0
-8005201,Biscoito não especificado,432.0
-8006101,Crepe,203.179
-8006501,Pão diet (de forma industrializado),198.0
-8006601,Pão light (de forma industrializado),198.0
-8006701,Pão de queijo light,363.0
-8006801,Pão integral light,198.0
-8007001,Tortas doces de qualquer sabor light,121.836
-8007101,Tortas doces de qualquer sabor diet,99.17
-8007302,Filhos (bolinho de farinha de trigo e ovos) light,426.533
-8007402,Filhos (bolinho de farinha de trigo e ovos) diet,426.533
-8007501,Bolo de chocolate light,299.493
-8007601,Bolo de chocolate diet,299.493
-8007701,Bolo de laranja light,328.383
-8008001,Bolo de coco diet,299.493
-8008201,Bolo de cenoura diet,272.738
-8008301,Biscoito recheado light,432.962
-8008305,Biscoito waffer light,398.632
-8008307,Waffer (biscoito) light,398.632
-8008309,Alfajores (biscoito) light,432.962
-8008310,Bolacha recheada light,432.962
-8008401,Biscoito recheado diet,405.275
-8008408,Rosquinha recheada de qualquer sabor diet,405.275
-8008410,Bolacha recheada diet,405.275
-8010001,Pão doce diet,312.251
-8010029,Pão de mel diet,446.228
-8010034,Panetone diet,355.95
-8010101,Biscoito salgado light,452.564
-8010125,Bolacha salgada light,452.564
-8010127,Chips (salgadinhos) light,407.047
-8010401,Biscoito doce light,395.251
-8010434,Bolacha doce light,395.251
-8010501,Biscoito doce diet,453.915
-8010534,Bolacha doce diet,453.915
-8010601,Bolo de banana,300.054
-8100101,Carne-seca,313.0
-8100102,Carne de charque,313.0
-8100103,Jabá,313.0
-8100201,Carne de sol,313.0
-8100202,Carne do sertão,313.0
-8100502,Hambúrguer de carne bovina,214.0
-8100802,Copa de porco defumada,248.659
-8101005,Bacon,541.0
-8101101,Hambúrguer de frango,206.14
-8102101,Salsicha no varejo,321.051
-8102204,"Linguiça (suína, bovina, mista, etc.)",396.0
-8102207,Linguiça de frango,244.0
-8102401,Chouriço,379.0
-8102402,Morcela,379.0
-8102403,Morcilha,379.0
-8102501,Paio,339.0
-8102601,Mortadela,307.0
-8102701,Salame,336.0
-8102702,Salaminho,336.0
-8102801,Blanquet de peru,126.0
-8102901,Presunto ,226.0
-8103001,Hambúrguer de peru,195.964
-8103101,Hambúrguer não especificado,214.0
-8103601,Apresuntado,178.0
-8103901,Pururuca de porco,544.0
-8103902,Pele de porco preparada (pururuca),544.0
-8104001,"Patê (fígado, calabresa, frango, presunto, etc.)",326.0
-8104101,Carne de aves defumada,195.659
-8104601,Carne salgada não especificada,313.0
-8104904,Mini chicken empanado,273.016
-8105001,Mortadela light,211.0
-8105201,Salsicha no varejo light,154.0
-8105401,Salame light,145.184
-8105501,Blanquet de peru light,124.121
-8105701,Hambúrguer não especificado light,190.0
-8200101,Refrigerante de cola tradicional,36.874
-8200102,Coca-cola tradicional,36.874
-8200202,Fanta laranja tradicional,48.0
-8200208,Sukita tradicional,48.0
-8200301,Refrigerante de guaraná tradicional,39.0
-8200302,Guaraná tradicional,39.0
-8200407,Sprit refrigerante tradicional,40.0
-8200505,Fanta uva tradicional,48.0
-8200701,Refrigerante de cola light,2.002
-8200702,Coca-cola light,2.002
-8200801,Refrigerante de cola diet,2.0
-8200902,Minuano tradicional,40.0
-8201104,Mate tradicional,2.803
-8201202,Bidu tradicional,39.0
-8201502,Fanta laranja light,0.0
-8201601,Refrigerante de guaraná light,0.0
-8201602,Guaraná light,0.0
-8201802,Tubaína tradicional,39.0
-8201902,Tubaína light,2.002
-8202001,Caldo de cana,73.58
-8202002,Garapá,73.58
-8202101,Água de coco,19.275
-8202402,Q-suco,15.28
-8202403,Q-refresko,15.28
-8202602,Nescafé,241.0
-8202803,Erva-mate,2.803
-8202804,Chimarrão,2.803
-8202805,Tereré,2.803
-8203401,Levedo de cerveja,170.0
-8203501,Refrigerante não especificado,36.874
-8203603,Cevada em pó,352.0
-8204503,Chocomilk ,83.322
-8204902,Água tônica tradicional,40.017
-8205201,"Chá diet (preto, camomila, erva-cidreira, capim-limão, etc.) ",2.524
-8205402,Paraguai refrigerante tradicional,39.0
-8205803,Gatorade,27.011
-8205901,Bebida energética,45.348
-8206301,"Chá (preto, camomila, erva-cidreira, capim-limão, etc.)",1.001
-8206402,Café solúvel capuccino ,27.707
-8207401,Refrigerante de guaraná diet,0.0
-8207402,Guaraná diet,0.0
-8207601,Refrigerante de limão diet,0.0
-8207705,Fanta uva light,0.0
-8208104,Mate light,2.803
-8209002,Água tônica light,40.017
-8209102,Paraguai refrigerante light,2.002
-8211002,Q-suco light,15.28
-8211003,Q-refresko light,15.28
-8211102,Q-suco diet,15.28
-8212401,Café capuccino solúvel light,12.766
-8212501,Café capuccino solúvel diet,12.766
-8212902,Água tônica diet,40.017
-8212906,Refrigerante de quinino dietético,40.017
-8213003,Chá mate orgânico,2.803
-8213004,Chimarrão orgânico,2.803
-8213601,Suco de clorofila,1.873
-8273902,Café com farinha,181.0005
-8300101,Cerveja (com ou sem álcool),43.185
-8300201,Chopp,43.185
-8300301,Aguardente,216.0
-8300302,Cachaça,216.0
-8300501,Batida de qualquer sabor,187.38
-8300701,Rum,230.182
-8300801,Vodka,217.153
-8301001,Uísque,230.182
-8301002,Whisky,230.182
-8301201,Champanhe,82.0
-8301202,Sidra champanhe,82.0
-8301501,Martini,194.436
-8301601,Conhaque,231.0
-8301701,Drink dreher,216.0
-8301901,Licor de qualquer sabor,282.649
-8302409,Cajuína,45.0
-8302415,Vinho,84.504
-8302416,Catuaba,216.0
-8302901,Coquetel de frutas,187.38
-8303101,Caipirinha,143.899
-8303501,Bebida alcoólica ,216.0
-8303615,Vinho orgânico,84.504
-8304301,Cerveja (com ou sem álcool) light,29.0
-8304502,Caxiri (aguardente de mandioca),216.0
-8400101,Azeite de oliva,887.805
-8400301,Óleo de soja,879.734
-8401801,Banha suína,902.0
-8403001,Banha bovina,680.0
-8403201,Óleo não especificado,879.734
-8403501,Óleo de dendê,857.84
-8500201,Salgadinho,274.6
-8500202,"Pastel (queijo, carne, palmito, etc.)",319.807
-8500203,Croquete ,274.6
-8500205,Coxinha ,274.6
-8500206,"Empada (queijo, carne, camarão, etc.)",153.963
-8500207,"Rissole  (queijo, carne, camarão, etc.)",274.6
-8500209,Acarajé,289.0
-8500210,Torresmo ,544.0
-8500211,Quibe ,274.6
-8500212,Abará (Bahia),289.0
-8500213,Paçoca de carne de sol,354.00202
-8500215,Angu frito,74.596
-8500217,Angu de milho ,60.584
-8500218,Polenta ,74.596
-8500222,Esfirra ,359.422
-8500223,Esfirra de carne ,346.452
-8500224,Esfirra de queijo ,359.422
-8500225,Esfirra de ricota ,320.394
-8500226,Esfirra de frango ,222.391
-8500227,Enroladinho ,274.6
-8500228,Bolinho de aipim,212.637
-8500232,Bolinho de bacalhau,214.013
-8500302,Cachorro-quente ,272.469
-8500303,Hambúrguer (sanduíche),267.164
-8500304,Cheeseburger ,279.85
-8500305,Eggsburger ,269.437
-8500307,Bauru ,229.465
-8500308,Americano,236.679
-8500313,Misto-quente ou frio ,265.417
-8500315,Sanduíche de queijo prato,329.293
-8500316,Sanduíche de salame,282.988
-8500317,Sanduíche de presunto,230.333
-8500318,Sanduíche de queijo prato com presunto,265.417
-8500319,Sanduíche de mortadela,315.972
-8500320,Sanduíche de queijo minas,329.293
-8500321,Cheese egg,279.85
-8500322,Cheese tudo,279.85
-8500323,Sanduíche natural,245.583
-8500401,Suco ,41.826
-8500402,Suco de abacaxi ,53.206
-8500403,Suco de acerola ,23.056
-8500404,Suco de beterraba ,30.772
-8500405,Suco de cupuaçu ,24.5
-8500406,Suco de goiaba ,62.284
-8500407,Suco de laranja ,41.826
-8500408,Suco de laranja com banana ,56.799
-8500409,Suco de laranja e beterraba ,30.772
-8500410,Suco de laranja e cenoura ,30.772
-8500411,Suco de laranja cenoura e beterraba,30.772
-8500412,Suco de mamão ,57.13
-8500413,Suco de manga ,50.862
-8500414,Suco de maracujá ,60.137
-8500415,Suco de melão ,31.79
-8500416,Suco de morango ,59.209
-8500417,Suco de pêssego ,53.993
-8500418,Suco de pêssego em calda ,53.993
-8500501,Vitamina ,92.781
-8500503,Vitamina de banana ,92.781
-8500504,Vitamina de banana com aveia ,108.457
-8500505,Vitamina de mamão ,80.591
-8500506,Vitamina de abacate ,100.188
-8500507,Vitamina de morango ,74.607
-8500508,Vitamina mista,83.164
-8500509,Vitamina de maçã,82.986
-8500601,Refresco ,46.805
-8500602,Refresco de caju ,46.805
-8500603,Refresco de groselha ,46.805
-8500604,Refresco de laranja ,46.805
-8500605,Refresco de maracujá ,46.805
-8500606,Refresco de limão,46.805
-8500801,"Salada ou verdura cozida, exceto de fruta",26.0
-8500802,Salada de maionese ,209.794
-8500903,Pizza ,281.198
-8500904,Lasanha pronta light ,158.633
-8500905,Nhoque ,190.542
-8500906,Caneloni,120.86
-8500907,Capeleti ,95.24
-8500909,Ravioli ,95.24
-8500910,Calzone ,245.75
-8500913,Panqueca,203.179
-8500914,Pizza calabreza,284.722
-8500915,Pizza muçarela,281.198
-8500916,Pizza presunto,284.722
-8500917,Pizza portuguesa,247.487
-8500919,Macarronada,120.586
-8501004,Galeto ,261.659
-8501104,Costela,365.0
-8501202,Pipoca doce ou salgada ,468.154
-8501302,Café ,1.001
-8501303,Café com leite ,31.441
-8501304,Café tipo expresso,2.445
-8501305,Café tipo capuccino,27.707
-8501402,Milho cozido ,160.141
-8501502,Batata palito,263.5
-8501503,Batata palha,545.703
-8501902,Mungunzá ,146.0
-8501903,Canjica ,146.0
-8501904,Curau,78.243
-8502201,Farofa ,406.0
-8502301,"Mingau (fubá,  aveia, farinha, etc.) ",78.243
-8502401,Tacacá ,16.0
-8502501,Bolinho de coco ,297.322
-8502701,Risoto,113.016
-8502801,Vatapá ,226.068
-8502901,Farofa pronta ,406.0
-8503202,Caldo de carne ,7.02
-8503203,Caldo-de-feijão ,75.499
-8503204,Caldo de mocotó ,7.02
-8503501,Baião de dois,136.0
-8503801,Churrasco,204.0
-8504201,Sushi,146.775
-8504401,Salada de frutas ,51.241
-8504501,"Sopa (legumes, carne, etc.)",28.776
-8504801,Salpicão ,202.853
-8505201,Charuto de repolho,84.911
-8505401,Arroz à grega ,92.005
-8505501,Arrumadinho,198.856
-8505601,Bobó de camarão ,72.1
-8505701,"Caruru (quiabo, amendoim, castanha de caju, camarão seco, etc.)",215.87
-8505801,Cuscuz paulista ,142.0
-8505901,"Empadão (queijo, frango, camarão, palmito, etc.)",153.963
-8506001,Farofa de banana,309.5525
-8506101,Feijão-tropeiro ,198.856
-8506201,Galinha com arroz ,143.501
-8506301,Galinhada ,143.501
-8506401,Moqueca baiana ,130.13
-8506501,Omelete ,241.618
-8506601,Pirão ,119.648
-8506701,Quibebe ,36.387
-8506801,Quiche,282.726
-8506901,Suflê ,126.098
-8507001,Tutu ,123.7645
-8507101,Moqueca capixaba ,100.524
-8507201,Maniçoba ,181.849
-8507301,Caldo verde ,94.918
-8507401,Arroz de cuxá,102.7360619949933
-8507501,Angu à baiana,125.337
-8507601,Chocolate,535.0
-8507701,Gemada ,134.794
-8507801,Açaí com granola,110.0
-8507901,Suco orgânico ,41.826
-8507902,Suco de abacaxi orgânico ,53.206
-8507903,Suco de acerola orgânico ,23.056
-8507906,Suco de goiaba orgânico ,62.284
-8507907,Suco de laranja orgânico ,41.826
-8507911,Suco de laranja cenoura e beterraba orgânico ,30.772
-8507913,Suco de manga orgânico ,50.862
-8507914,Suco de maracujá orgânico ,60.137
-8507916,Suco de morango orgânico ,59.209
-8507917,Suco de pêssego orgânico ,53.993
-8507918,Suco de pêssego em calda orgânico ,53.993
-8508003,Pizza pronta light ,255.571
-8508004,Lasanha pronta light ,144.333
-8508012,Macarrão pronto light ,189.862
-8508017,Pizza portuguesa light,229.617
-8508101,Farofa pronta light em pacote,406.0
-8508301,Vaca atolada,245.0
-8508401,"Salada ou verdura crua, exceto de fruta",18.0
-8508403,Outros legumes cozidos,60.5
-8509801,Café da manha,31.441
-8570101,Prato de comida brasileira,148.37413363637867
-8570102,Prato de comida do nordeste,129.20801482215074
-8570103,Prato de comida do norte,157.0970710897037
-8570104,Prato de comida do sudeste,131.0943051552244
-8570105,Prato de comida do sul,148.37413363637867
-8570106,Prato de comida do centro-oeste,105.9299423583826
-8570107,Arroz com feijão,116.51397285356666
-8570328,Pão com manteiga,369.5
-8570329,Pão com margarina,369.8333333333333
-8570330,Pão com ovo,261.2955
-8571110,"Carne com batata, inhame, batata-baroa ou aipim ",188.198
-8571111,"Carne com legumes (exceto batata, inhame e aipim)",150.523
-8571112,"Frango com batata, inhame batata-baroa ou aipim",153.698
-8571113,"Frango com legumes (exceto batata, inhame e aipim)",116.023
-8578404,Abobora com quiabo,21.0
-8579002,Arroz carreteiro,154.0
-8579003,Maria izabel,154.0
-8579004,Arroz de leite,142.422
-8579005,Arroz com mandioca,130.31147285356667
-8579006,Arroz com ovo,179.10697285356667
-8800109,Palma ,41.945
+Código do alimento,Descrição do alimento,Calorias,Campo de Pesquisa
+6300101,"Arroz (polido, parboilizado, agulha, agulhinha, etc.)",135.6229457071333,ARROZ POLIDO PARBOILIZADO AGULHA AGULHINHA
+6300201,Arroz integral,130.9456437535,ARROZ INTEGRAL
+6300701,Milho (em grão),160.141,MILHO GRAO
+6300706,Canjiquinha de milho em grão,79.68,CANJIQUINHA MILHO GRAO
+6300707,Xerém de milho,62.952,XEREM MILHO
+6301001,Amendoim (em grão) in natura,567.0,AMENDOIM GRAO IN NATURA
+6301101,Ervilha em grão,109.093,ERVILHA GRAO
+6301201,Fava (em grão),85.617,FAVA GRAO
+6301204,Mangalô amargo em grão,85.617,MANGALO AMARGO GRAO
+6301603,Feijão-de-corda,121.332,FEIJAO DE CORDA
+6301634,Feijão-verde,121.332,FEIJAO VERDE
+6302001,Semente de linhaça,534.0,SEMENTE LINHACA
+6302602,Andu,97.405,ANDU
+6302801,Grão de bico,188.481,GRAO BICO
+6302901,Lentilha,136.277,LENTILHA
+6303001,Soja em grão,196.342,SOJA GRAO
+6303102,"Feijão (preto, mulatinho, roxo, rosinha, etc.)",97.405,FEIJAO PRETO MULATINHO ROXO ROSINHA
+6303501,Quirera não especificada,62.952,QUIRERA ESPECIFICADA
+6304034,Feijão-verde orgânico,121.332,FEIJAO VERDE ORGANICO
+6304101,Feijão orgânico,97.405,FEIJAO ORGANICO
+6304201,Pipoca  light,445.938,PIPOCA  LIGHT
+6304301,Arroz  orgânico,135.6229457071333,ARROZ  ORGANICO
+6304401,Arroz integral orgânico,130.9456437535,ARROZ INTEGRAL ORGANICO
+6304602,Feijão-de-soja orgânico,196.342,FEIJAO DE SOJA ORGANICO
+6304901,Quinoa,135.465,QUINOA
+6400101,Batata-inglesa,86.0,BATATA INGLESA
+6400303,Mandioquinha salsa (batata-baroa),76.0,MANDIOQUINHA SALSA BATATA BAROA
+6400304,Cenoura amarela (batata-baroa),76.0,CENOURA AMARELA BATATA BAROA
+6400401,Batata-doce,76.0,BATATA DOCE
+6400501,Inhame,100.0,INHAME
+6400508,Quicaré,100.0,QUICARE
+6400601,Mandioca,125.0,MANDIOCA
+6400609,Aipim,125.0,AIPIM
+6400610,Macaxeira,125.0,MACAXEIRA
+6400701,Cará,100.0,CARA
+6400713,Inhame caraquento (cará),100.0,INHAME CARAQUENTO CARA
+6400802,Batata (não especificada),86.0,BATATA ESPECIFICADA
+6400908,Mandioquinha,76.0,MANDIOQUINHA
+6401001,Rabanete,16.0,RABANETE
+6401101,Beterraba,43.0,BETERRABA
+6401201,Cenoura,41.0,CENOURA
+6401301,Nabo,22.0,NABO
+6401601,Açafrão,310.0,ACAFRAO
+6401801,Batata-inglesa orgânica,263.5,BATATA INGLESA ORGANICA
+6500101,Creme de arroz,148.323,CREME ARROZ
+6500104,Arrozina,148.323,ARROZINA
+6500105,Mucilon,78.243,MUCILON
+6500108,Mingau de arroz,148.323,MINGAU ARROZ
+6500202,Croquinhos de arroz,387.0,CROQUINHOS ARROZ
+6500301,Farinha de aveia,384.0,FARINHA AVEIA
+6500401,Aveia em flocos,384.0,AVEIA FLOCOS
+6500601,Fubá de milho,60.58,FUBA MILHO
+6500603,Farinha de milho,351.0,FARINHA MILHO
+6500608,Puba de milho,311.0,PUBA MILHO
+6500609,Puba de fubá,311.0,PUBA FUBA
+6500613,Milho moído,160.141,MILHO MOIDO
+6500614,Mingau de milho,78.243,MINGAU MILHO
+6500702,Amido de milho,78.243,AMIDO MILHO
+6500705,Amido de arroz,148.323,AMIDO ARROZ
+6500801,Cremogema,78.243,CREMOGEMA
+6500802,Vitamilho,128.3,VITAMILHO
+6500804,Creme de milho,78.243,CREME MILHO
+6500902,Sucrilhos de milho,377.0,SUCRILHOS MILHO
+6500903,Cereal matinal de milho em flocos,377.0,CEREAL MATINAL MILHO FLOCOS
+6501301,Germe de trigo,360.0,GERME TRIGO
+6501303,Fibra de trigo,216.0,FIBRA TRIGO
+6501304,Fibra de cereal trigo,216.0,FIBRA CEREAL TRIGO
+6501401,Farinha de mandioca,361.0,FARINHA MANDIOCA
+6501410,Farinha de copioba,361.0,FARINHA COPIOBA
+6501415,Farinha d'água,361.0,FARINHA D AGUA
+6501416,Cruera,361.0,CRUERA
+6501502,Goma de mandioca,336.0,GOMA MANDIOCA
+6501505,Sagu de mandioca,116.992,SAGU MANDIOCA
+6501510,Farinha de tapioca,331.0,FARINHA TAPIOCA
+6501511,Farinha beiju,331.0,FARINHA BEIJU
+6501515,Sagu de tapioca,116.992,SAGU TAPIOCA
+6501516,Tapioca de goma,336.0,TAPIOCA GOMA
+6502001,Farinha láctea,396.67,FARINHA LACTEA
+6502101,Neston,345.8,NESTON
+6502102,Flocos de cereais,365.0,FLOCOS CEREAIS
+6502105,Vitaflocos,78.243,VITAFLOCOS
+6502403,Mini pizza semipronta,252.49,MINI PIZZA SEMIPRONTA
+6502501,Fibra de soja,70.0,FIBRA SOJA
+6502603,Minipastel,319.807,MINIPASTEL
+6503401,Macarrão ,158.0,MACARRAO
+6503501,Purê de batata,115.161,PURE BATATA
+6503601,Bife vegetal,142.372,BIFE VEGETAL
+6503603,Carne vegetal,142.372,CARNE VEGETAL
+6503604,Pasta de soja,62.0,PASTA SOJA
+6503605,Carne de soja,142.372,CARNE SOJA
+6503702,Amendoim moído,567.0,AMENDOIM MOIDO
+6504101,Granola ,388.0,GRANOLA
+6504601,Musli,388.0,MUSLI
+6504701,Mix de cereais,388.0,MIX CEREAIS
+6504801,Miojo,189.862,MIOJO
+6504802,Macarrão instantâneo,189.862,MACARRAO INSTANTANEO
+6505101,Sustagem,369.152,SUSTAGEM
+6505601,Proteína de soja,142.372,PROTEINA SOJA
+6505603,Proteína vegetal,142.372,PROTEINA VEGETAL
+6505701,Complemento alimentar de qualquer sabor,369.152,COMPLEMENTO ALIMENTAR QUALQUER SABOR
+6505902,Sucrilhos de milho light,365.0,SUCRILHOS MILHO LIGHT
+6506003,Mini pizza semipronta light,255.571,MINI PIZZA SEMIPRONTA LIGHT
+6506302,Macarrão instantâneo light,189.862,MACARRAO INSTANTANEO LIGHT
+6506401,Proteína de soja orgânica,142.372,PROTEINA SOJA ORGANICA
+6573225,Macarrão com carne,120.586,MACARRAO CARNE
+6573226,Macarrão com peixe,163.168,MACARRAO PEIXE
+6600101,Coco-da-baía (seco ou verde),354.0,COCO DA BAIA SECO VERDE
+6600301,Castanha portuguesa,131.0,CASTANHA PORTUGUESA
+6600401,Pinhão,174.36990200000002,PINHAO
+6600501,Amêndoa,578.0,AMENDOA
+6600601,Avelã,628.0,AVELA
+6600701,Castanha-do-pará,656.0,CASTANHA DO PARA
+6600801,Castanha de caju,574.0,CASTANHA CAJU
+6600912,Butiá,105.0,BUTIA
+6601108,Tucumã,474.0,TUCUMA
+6601208,Coco de mucajá,404.2818766666667,COCO MUCAJA
+6601501,Noz (nogueira),654.0,NOZ NOGUEIRA
+6601706,Açaí ,262.0,ACAI
+6601707,Juçara,262.0,JUCARA
+6601709,Uaçaí,262.0,UACAI
+6601712,Jussara,262.0,JUSSARA
+6601805,Pupunha,28.0,PUPUNHA
+6601902,Bacaba,212.0,BACABA
+6601904,Bacabuçu,212.0,BACABUCU
+6602001,Castanha-da-índia,656.0,CASTANHA DA INDIA
+6602201,Pistache,557.0,PISTACHE
+6602301,Buriti ,145.0,BURITI
+6602401,Coco ,354.0,COCO
+6602601,Patauá ,105.0,PATAUA
+6700101,Alface,15.0,ALFACE
+6700201,Bertalha,45.3,BERTALHA
+6700301,Chicória,17.0,CHICORIA
+6700304,Escarola,52.88,ESCAROLA
+6700501,Couve,30.0,COUVE
+6700601,Couve-flor,23.0,COUVE FLOR
+6700701,Espinafre,23.0,ESPINAFRE
+6700801,Mostarda (verdura),26.0,MOSTARDA VERDURA
+6700901,Repolho,25.0,REPOLHO
+6701101,Cebolinha,25.0,CEBOLINHA
+6701301,Agrião,25.0,AGRIAO
+6701401,Taioba,34.0,TAIOBA
+6701501,Acelga,19.0,ACELGA
+6701505,Beterraba branca (acelga) ,14.0,BETERRABA BRANCA ACELGA
+6701601,Almeirão,17.0,ALMEIRAO
+6701602,Radite,17.0,RADITE
+6701704,Brócolis,34.0,BROCOLIS
+6701801,Serralha,23.0,SERRALHA
+6701901,Caruru,26.0,CARURU
+6701906,Cuxá,26.0,CUXA
+6701907,Vinagreira ,26.0,VINAGREIRA
+6701913,Cariru,26.0,CARIRU
+6702001,Rúcula,25.0,RUCULA
+6702105,Jambu,32.0,JAMBU
+6702201,Língua de vaca (verdura),30.0,LINGUA VACA VERDURA
+6702301,Alcachofra,53.0,ALCACHOFRA
+6702501,Bredo,26.0,BREDO
+6702604,Salsão (aipo),18.0,SALSAO AIPO
+6702801,Erva-doce,31.0,ERVA DOCE
+6703003,Folha de aipim,30.0,FOLHA AIPIM
+6703004,Folha de macaxeira,26.0,FOLHA MACAXEIRA
+6703101,Broto de feijão,30.0,BROTO FEIJAO
+6703306,Moranga,20.0,MORANGA
+6703701,Abobrinha,16.0,ABOBRINHA
+6703805,Jerimum,20.0,JERIMUM
+6703901,Abóbora,20.0,ABOBORA
+6704001,Pépino,15.0,PEPINO
+6704101,Chuchu,24.0,CHUCHU
+6704201,Jiló,22.0,JILO
+6704301,Maxixe,14.0,MAXIXE
+6704306,Pepininho (maxixe),14.0,PEPININHO MAXIXE
+6704401,Palmito in natura,28.0,PALMITO IN NATURA
+6704409,Guariroba (palmito in natura),28.0,GUARIROBA PALMITO IN NATURA
+6704410,Gueroba (palmito in natura),28.0,GUEROBA PALMITO IN NATURA
+6704501,Pimentão,20.0,PIMENTAO
+6705001,Quiabo,22.0,QUIABO
+6705101,Tomate,18.0,TOMATE
+6705201,Vagem,35.0,VAGEM
+6705301,Cogumelo in natura,28.0,COGUMELO IN NATURA
+6705401,Berinjela,32.9,BERINJELA
+6705501,Ervilha em vagem,67.093,ERVILHA VAGEM
+6705701,Cebola,40.0,CEBOLA
+6705801,Catalonha,42.94,CATALONHA
+6706101,Jardineira (seleta),47.0,JARDINEIRA SELETA
+6706102,Seleta (jardineira),47.0,SELETA JARDINEIRA
+6706201,Alho,149.0,ALHO
+6706301,Alho-poró,54.479,ALHO PORO
+6707301,Broto de alfafa,23.0,BROTO ALFAFA
+6707801,Alface orgânica,15.0,ALFACE ORGANICA
+6707901,Tomate orgânico,18.0,TOMATE ORGANICO
+6708001,Pimentão orgânico,20.0,PIMENTAO ORGANICO
+6709701,Orégano,306.0,OREGANO
+6801017,Pacová,78.0,PACOVA
+6801101,"Banana (ouro, prata, d´água, da terra, etc.)",89.0,BANANA OURO PRATA DAGUA TERRA
+6801801,"Laranja (pera, seleta, lima, da terra, etc.)",47.0,LARANJA PERA SELETA LIMA TERRA
+6801901,Lima,47.0,LIMA
+6802001,"Limão (comum, galego, etc.)",30.0,LIMAO COMUM GALEGO
+6802201,Tangerina,53.0,TANGERINA
+6802202,Mexerica,53.0,MEXERICA
+6802217,Bergamota,53.0,BERGAMOTA
+6802218,Mimosa,53.0,MIMOSA
+6802223,Tanja,53.0,TANJA
+6802227,Maricota,53.0,MARICOTA
+6802407,Laranjinha japonesa,47.0,LARANJINHA JAPONESA
+6802501,Cana-de-açúcar,73.58,CANA DE ACUCAR
+6802601,Abacaxi,48.0,ABACAXI
+6802602,Ananás,48.0,ANANAS
+6802701,Abacate,120.0,ABACATE
+6802801,Caqui,70.0,CAQUI
+6802901,Figo,74.0,FIGO
+6803001,Maçã,52.0,MACA
+6803101,Mamão,39.0,MAMAO
+6803108,Papaia,39.0,PAPAIA
+6803201,Manga,65.0,MANGA
+6803215,Manguito,65.0,MANGUITO
+6803301,Maracujá,97.0,MARACUJA
+6803401,Melancia,30.0,MELANCIA
+6803501,Melão,36.0,MELAO
+6803601,pera,58.0,PERA
+6803701,Pêssego,39.0,PESSEGO
+6803801,Fruta-de-conde,74.0,FRUTA DE CONDE
+6803802,Pinha (fruta-de-conde),74.0,PINHA FRUTA DE CONDE
+6803803,Ata,74.0,ATA
+6803901,Uva,69.0,UVA
+6803912,Uva passa,299.0,UVA PASSA
+6804001,Jenipapo ,113.0,JENIPAPO
+6804101,Jaca,94.0,JACA
+6804201,Goiaba,68.0,GOIABA
+6804203,Araçá-açu (goiaba),68.0,ARACA ACU GOIABA
+6804301,Ameixa,46.0,AMEIXA
+6804401,Caju,43.0,CAJU
+6804501,Cereja,63.0,CEREJA
+6804601,Cajá-manga,46.0,CAJA MANGA
+6804602,Cajarana,46.0,CAJARANA
+6804701,Taperebá,70.0,TAPEREBA
+6804702,Acaja (taberebá),46.0,ACAJA TABEREBA
+6804801,Carambola,31.0,CARAMBOLA
+6804901,Jabuticaba,73.0,JABUTICABA
+6805001,Graviola,62.0,GRAVIOLA
+6805201,Morango,32.0,MORANGO
+6805301,Jambo,27.0,JAMBO
+6805401,Atemoia ,74.0,ATEMOIA
+6805601,Mangaba,43.0,MANGABA
+6805701,Araçá,68.0,ARACA
+6805801,Nêspera,47.0,NESPERA
+6805901,Fruta-pão,103.0,FRUTA PAO
+6806001,Sapoti,96.0,SAPOTI
+6806101,Uxi,252.0,UXI
+6806201,Tamarindo,239.0,TAMARINDO
+6806301,Cacau,74.0,CACAU
+6806401,Pitomba ,66.0,PITOMBA
+6806501,Bacuri,105.0,BACURI
+6806601,Ingá,60.0,INGA
+6806701,Pequi,152.0,PEQUI
+6806801,Pitanga ,41.0,PITANGA
+6806901,Ciriguela,76.0,CIRIGUELA
+6807001,Murici,66.0,MURICI
+6807101,Umbu,37.0,UMBU
+6807103,Imbu,37.0,IMBU
+6807202,Biribá,74.0,BIRIBA
+6807301,Cupuaçu,49.0,CUPUACU
+6807401,Nectarina,44.0,NECTARINA
+6807501,Mari,281.1,MARI
+6807601,Romã,56.0,ROMA
+6807701,Acerola,32.0,ACEROLA
+6807801,Kiwi,61.0,KIWI
+6808001,Abiu,62.0,ABIU
+6808201,Jurubeba,126.0,JURUBEBA
+6808401,Fruta (não especificada),89.0,FRUTA ESPECIFICADA
+6808601,Maçã orgânica,52.0,MACA ORGANICA
+6808901,Acerola orgânica,32.0,ACEROLA ORGANICA
+6809901,Amora,43.0,AMORA
+6810201,Jamelão (jamburão),73.0,JAMELAO JAMBURAO
+6900302,Demerara,387.0,DEMERARA
+6900304,Açúcar mascavo,380.0,ACUCAR MASCAVO
+6900401,Rapadura,296.0,RAPADURA
+6900402,Alfenim de cana,296.0,ALFENIM CANA
+6900403,Batida (rapadura),380.0,BATIDA RAPADURA
+6900501,Sorvete de qualquer sabor industrializado,205.995,SORVETE QUALQUER SABOR INDUSTRIALIZADO
+6900502,Picolé de qualquer sabor industrializado,79.0,PICOLE QUALQUER SABOR INDUSTRIALIZADO
+6900601,Chiclete,396.0,CHICLETE
+6900603,Bala,394.0,BALA
+6900604,Caramelo (bala),382.0,CARAMELO BALA
+6900605,Drops,394.0,DROPS
+6900606,Pastilha,396.0,PASTILHA
+6900607,Pirulito,394.0,PIRULITO
+6900609,Goma de mascar,396.0,GOMA MASCAR
+6900610,Jujuba,375.0,JUJUBA
+6900701,Tablete de chocolate,535.0,TABLETE CHOCOLATE
+6900702,Barra de chocolate,535.0,BARRA CHOCOLATE
+6900706,Confete,492.0,CONFETE
+6900801,Chocolate em pó de qualquer marca,364.237,CHOCOLATE PO QUALQUER MARCA
+6900818,Ovomaltine,388.0,OVOMALTINE
+6900821,Achocolatado em pó,400.0,ACHOCOLATADO PO
+6900822,Toddynho,83.322,TODDYNHO
+6900901,Bombom de qualquer marca,373.0,BOMBOM QUALQUER MARCA
+6900904,Trufa ,487.872,TRUFA
+6901001,Geleia de frutas de qualquer marca ou sabor,278.0,GELEIA FRUTAS QUALQUER MARCA SABOR
+6901002,Mousse de qualquer sabor (Geleia) ,331.892,MOUSSE QUALQUER SABOR GELEIA
+6901101,Geleia de mocotó,120.25,GELEIA MOCOTO
+6901201,Doce de frutas em pasta de qualquer sabor,291.3,DOCE FRUTAS PASTA QUALQUER SABOR
+6901203,Pasta de amendoim,588.0,PASTA AMENDOIM
+6901204,Pessegada,77.0,PESSEGADA
+6901206,Marmelada,278.0,MARMELADA
+6901209,Figada,88.0,FIGADA
+6901211,Goiabada,291.3,GOIABADA
+6901214,Caju em pasta,291.3,CAJU PASTA
+6901224,Mariola,291.3,MARIOLA
+6901301,Doce de frutas em calda de qualquer sabor,77.0,DOCE FRUTAS CALDA QUALQUER SABOR
+6901401,Doce de frutas cristalizado de qualquer sabor,291.3,DOCE FRUTAS CRISTALIZADO QUALQUER SABOR
+6901501,Melado,296.0,MELADO
+6901602,Mel ,304.0,MEL
+6901701,Gelatina de qualquer sabor,278.0,GELATINA QUALQUER SABOR
+6901801,Adoçante artificial,0.0,ADOCANTE ARTIFICIAL
+6902004,Merengue,358.256,MERENGUE
+6902301,Schimier de cana,296.0,SCHIMIER CANA
+6902401,Fruta seca ou desidratada,240.0,FRUTA SECA DESIDRATADA
+6902402,Passa,299.0,PASSA
+6902601,Pudim de qualquer sabor,131.148,PUDIM QUALQUER SABOR
+6902607,Danette pudim,131.148,DANETTE PUDIM
+6902701,Manjar,284.979,MANJAR
+6902901,Cuscuz,128.3,CUSCUZ
+6902902,Cuscuz de tapioca,116.992,CUSCUZ TAPIOCA
+6903001,Maria-mole,444.921,MARIA MOLE
+6903101,Cocada,404.8,COCADA
+6903102,Quebra-queixo,404.8,QUEBRA QUEIXO
+6903201,Doce de amendoim,451.58,DOCE AMENDOIM
+6903202,Pé de moleque,474.0,PE MOLEQUE
+6903203,Paçoca,472.17,PACOCA
+6903204,Torrão de amendoim,460.339,TORRAO AMENDOIM
+6903205,Paçoquinha de amendoim,472.17,PACOQUINHA AMENDOIM
+6903207,Amendoim caramelizado,474.0,AMENDOIM CARAMELIZADO
+6903208,Amendoim amanteigado,567.0,AMENDOIM AMANTEIGADO
+6903209,Amendoim achocolatado,519.0,AMENDOIM ACHOCOLATADO
+6903303,Amendoim apimentado,567.0,AMENDOIM APIMENTADO
+6903304,Amendoim cozido,318.0,AMENDOIM COZIDO
+6903601,Brigadeiro,334.476,BRIGADEIRO
+6903701,Bomba de qualquer tipo,339.255,BOMBA QUALQUER TIPO
+6903801,Mil folhas,440.331,MIL FOLHAS
+6903901,Queijadinha,404.8,QUEIJADINHA
+6904101,Doce à base de ovos,131.148,DOCE BASE OVOS
+6904104,Caçarola italiana,284.979,CACAROLA ITALIANA
+6904105,Quindim,131.148,QUINDIM
+6904108,Fios de ovos,131.148,FIOS OVOS
+6904201,Doce à base de leite,319.695,DOCE BASE LEITE
+6904202,Pavê de qualquer sabor,306.428,PAVE QUALQUER SABOR
+6904203,Ambrosia,144.228,AMBROSIA
+6904204,Leite geleificado,131.148,LEITE GELEIFICADO
+6904205,Chandele de qualquer sabor,131.148,CHANDELE QUALQUER SABOR
+6904302,Mumu ,319.695,MUMU
+6904401,Canudinho recheado,123.26,CANUDINHO RECHEADO
+6904501,Sarolho,336.0,SAROLHO
+6904502,Beiju,336.0,BEIJU
+6904601,Schimier de fruta (exceto de cana),278.0,SCHIMIER FRUTA EXCETO CANA
+6904701,Beijo de moça,387.0,BEIJO MOCA
+6904801,Picolé ensacado,79.0,PICOLE ENSACADO
+6904807,Geladinho,122.687,GELADINHO
+6905001,Churro,401.659,CHURRO
+6905101,Pamonha,171.0,PAMONHA
+6905401,Algodão-doce,387.0,ALGODAO DOCE
+6905603,Io-Iô crem (chocolate em creme),350.0,IO IO CREM CHOCOLATE CREME
+6905801,Ovo de páscoa,535.0,OVO PASCOA
+6905804,Kinder ovo,535.0,KINDER OVO
+6905901,Torrone,460.339,TORRONE
+6906001,Arroz-doce,108.49,ARROZ DOCE
+6906404,Polpa de coco,402.0,POLPA COCO
+6906501,Diet shake,335.524,DIET SHAKE
+6906502,Concentrado alimentar diet shake,335.524,CONCENTRADO ALIMENTAR DIET SHAKE
+6906602,Açúcar ,387.0,ACUCAR
+6907001,Açúcar light,400.0,ACUCAR LIGHT
+6907201,Barra de cereais,352.919,BARRA CEREAIS
+6907202,Barra de cereais salgada,352.919,BARRA CEREAIS SALGADA
+6907203,Barra de cereais doce,352.919,BARRA CEREAIS DOCE
+6907301,Sobremesa de qualquer tipo (exceto infantil),131.148,SOBREMESA QUALQUER TIPO EXCETO INFANTIL
+6907401,Rabanada,293.0,RABANADA
+6907501,Milk shake ,161.089,MILK SHAKE
+6907901,Geleia diet,52.637,GELEIA DIET
+6908001,Doce de frutas diet,52.637,DOCE FRUTAS DIET
+6908401,Pastéis de santa clara,131.148,PASTEIS SANTA CLARA
+6908501,Suspiro,358.256,SUSPIRO
+6909301,Doce de frutas cristalizado de qualquer sabor diet,52.637,DOCE FRUTAS CRISTALIZADO QUALQUER SABOR DIET
+6909601,Sorvete de qualquer sabor industrializado light,188.994,SORVETE QUALQUER SABOR INDUSTRIALIZADO LIGHT
+6909701,Sorvete de qualquer sabor industrializado diet,190.0,SORVETE QUALQUER SABOR INDUSTRIALIZADO DIET
+6909803,Bala light,235.0,BALA LIGHT
+6909901,Chiclete diet,240.0,CHICLETE DIET
+6909903,Bala diet,235.0,BALA DIET
+6910002,Barra de chocolate light,539.785,BARRA CHOCOLATE LIGHT
+6910102,Barra de chocolate diet,539.785,BARRA CHOCOLATE DIET
+6910221,Achocolatado em pó light,337.701,ACHOCOLATADO PO LIGHT
+6910321,Achocolatado em pó diet,337.701,ACHOCOLATADO PO DIET
+6910322,Toddynho diet,73.289,TODDYNHO DIET
+6910401,Bombom de qualquer marca light,373.0,BOMBOM QUALQUER MARCA LIGHT
+6910501,Bombom de qualquer marca diet,373.0,BOMBOM QUALQUER MARCA DIET
+6910502,Bombom caramelizado de qualquer marca diet,373.0,BOMBOM CARAMELIZADO QUALQUER MARCA DIET
+6910601,Geleia de frutas de qualquer marca ou sabor light,179.005,GELEIA FRUTAS QUALQUER MARCA SABOR LIGHT
+6910604,Geleia light,179.005,GELEIA LIGHT
+6910605,Geleia de frutas light,179.005,GELEIA FRUTAS LIGHT
+6910701,Doce de frutas em barra ou pasta light,179.005,DOCE FRUTAS BARRA PASTA LIGHT
+6910702,Doce de frutas em pasta light,179.005,DOCE FRUTAS PASTA LIGHT
+6910801,Pudim de qualquer sabor light,119.148,PUDIM QUALQUER SABOR LIGHT
+6910808,Pudim danette light,119.148,PUDIM DANETTE LIGHT
+6910901,Pudim de qualquer sabor diet,119.148,PUDIM QUALQUER SABOR DIET
+6911201,Doce de leite light,292.291,DOCE LEITE LIGHT
+6911301,Doce de leite diet,292.291,DOCE LEITE DIET
+6912501,Barra de cereais diet,403.449,BARRA CEREAIS DIET
+6912502,Barra de cereais doce diet,403.449,BARRA CEREAIS DOCE DIET
+6912801,Milk shake diet,335.524,MILK SHAKE DIET
+6913001,Cocada diet,404.8,COCADA DIET
+6913101,Doce de amendoim diet,599.0,DOCE AMENDOIM DIET
+6913103,Paçoca diet,599.0,PACOCA DIET
+6913108,Amendoim amanteigado diet,477.86,AMENDOIM AMANTEIGADO DIET
+6913801,Doce à base de leite diet,292.291,DOCE BASE LEITE DIET
+6913901,Gelatina de qualquer sabor light,179.005,GELATINA QUALQUER SABOR LIGHT
+6914001,Adoçante light,365.0,ADOCANTE LIGHT
+6914002,Adoçante em pó light,365.0,ADOCANTE PO LIGHT
+6914003,Adoçante liquido light,0.0,ADOCANTE LIQUIDO LIGHT
+7001501,Mostarda molho,67.0,MOSTARDA MOLHO
+7002304,Hortelã,1.001,HORTELA
+7002401,Alcaparra em conserva,23.0,ALCAPARRA CONSERVA
+7002601,Coentro,279.0,COENTRO
+7003601,Molho de soja,53.0,MOLHO SOJA
+7003604,Shoyo,53.0,SHOYO
+7003801,Leite de coco,202.46,LEITE COCO
+7004301,Maionese (molho),261.052,MAIONESE MOLHO
+7004701,Massa de tomate,38.0,MASSA TOMATE
+7004801,Molho de tomate,24.0,MOLHO TOMATE
+7004802,Ketchup,97.0,KHUP
+7004803,Catchup,97.0,CATCHUP
+7006101,Pimenta em pó,255.0,PIMENTA PO
+7007101,Tucupi em caldo sem pimenta,4.869,TUCUPI CALDO PIMENTA
+7007502,Creme de queijo,209.657,CREME QUEIJO
+7007701,Caldo de peixe,16.0,CALDO PEIXE
+7007901,Caldo de tomate,37.654,CALDO TOMATE
+7009102,Gergelim,631.0,GERGELIM
+7010301,Tomate seco,213.0,TOMATE SECO
+7010401,Maionese (molho) light,156.578,MAIONESE MOLHO LIGHT
+7010501,Molho de soja light,53.127,MOLHO SOJA LIGHT
+7010601,Leite de coco light,202.46,LEITE COCO LIGHT
+7079202,Vinagrete,76.785,VINAGRETE
+7100101,Filé-mignon,204.0,FILE MIGNON
+7100201,Contrafilé,204.0,CONTRAFILE
+7100205,Bisteca bovina,471.0,BISTECA BOVINA
+7100301,Alcatra,204.0,ALCATRA
+7100303,Maminha,199.0,MAMINHA
+7100304,Picanha,204.0,PICANHA
+7100501,Patinho,199.0,PATINHO
+7100502,Cabeça de lombo (carne bovina),199.0,CABECA LOMBO CARNE BOVINA
+7100604,Posta branca,199.0,POSTA BRANCA
+7100606,Tatu (lagarto redondo),199.0,TATU LAGARTO REDONDO
+7100607,Paulista,199.0,PAULISTA
+7100608,Lombo paulista (carne bovina),199.0,LOMBO PAULISTA CARNE BOVINA
+7100702,Posta vermelha,199.0,POSTA VERMELHA
+7100801,Acém,242.0,ACEM
+7100803,Agulha (acém),242.0,AGULHA ACEM
+7100905,Paleta ,242.0,PALETA
+7100908,Pá com osso,242.0,PA OSSO
+7101001,Músculo bovino,199.0,MUSCULO BOVINO
+7101006,Chambaril,242.0,CHAMBARIL
+7101009,Carne marica bovina,199.0,CARNE MARICA BOVINA
+7101011,Vazio (carne bovina),204.0,VAZIO CARNE BOVINA
+7101101,Peito bovino,204.0,PEITO BOVINO
+7101202,Fraldinha (capa de filé),199.0,FRALDINHA CAPA FILE
+7101203,Aba de filé ,242.0,ABA FILE
+7101301,Costela bovina,365.0,COSTELA BOVINA
+7101704,Jacaré (carne bovina de segunda c/ osso),365.0,JACARE CARNE BOVINA SEGUNDA C  OSSO
+7101706,Filé de segunda,242.0,FILE SEGUNDA
+7101801,Víscera bovina ,191.0,VISCERA BOVINA
+7101806,Panelada (vísceras bovinas não especificadas),100.041,PANELADA VISCERAS BOVINAS ESPECIFICADAS
+7101901,Coração bovino,165.0,CORACAO BOVINO
+7102001,Rim de boi ,158.0,RIM BOI
+7102102,Bofe bovino,158.0,BOFE BOVINO
+7102201,Miolo de boi,151.0,MIOLO BOI
+7102401,Tripa bovina,94.0,TRIPA BOVINA
+7102402,Dobradinha fresca,94.0,DOBRADINHA FRESCA
+7102403,Fato bovino,94.0,FATO BOVINO
+7102404,Fato caprino,94.0,FATO CAPRINO
+7102501,Fígado bovino,191.0,FIGADO BOVINO
+7102601,Cupim,330.1002908333333,CUPIM
+7102701,Língua bovina,284.0,LINGUA BOVINA
+7102801,Rabada de boi,365.0,RABADA BOI
+7103101,Mocotó bovino,214.0,MOCOTO BOVINO
+7103104,Braço bovino,221.659,BRACO BOVINO
+7103105,Mão bovina,214.0,MAO BOVINA
+7103301,Carré ,397.0,CARRE
+7103305,Bisteca suína,397.0,BISTECA SUINA
+7103401,Pernil suíno,289.0,PERNIL SUINO
+7103403,Quarto suíno,289.0,QUARTO SUINO
+7103501,Costela suína,397.0,COSTELA SUINA
+7103701,Lombo suíno,289.0,LOMBO SUINO
+7103801,Toucinho,541.0,TOUCINHO
+7103903,Míudo suíno,165.0,MIUDO SUINO
+7103906,Arrasto suíno,100.041,ARRASTO SUINO
+7103907,Sarapatel suíno fresco,100.041,SARAPATEL SUINO FRESCO
+7104101,Carne suína,289.0,CARNE SUINA
+7104301,Carne moída ,214.0,CARNE MOIDA
+7104302,Guisado ,242.0,GUISADO
+7104501,Tripa suína,233.0,TRIPA SUINA
+7104601,Figado suíno,165.0,FIGADO SUINO
+7104701,Língua suína,271.0,LINGUA SUINA
+7105001,Orelha suína fresca,214.0,ORELHA SUINA FRESCA
+7105103,Sarrabulho,100.041,SARRABULHO
+7105203,Mocotó suíno,214.0,MOCOTO SUINO
+7105401,Carne de cabrito ,143.0,CARNE CABRITO
+7105402,Carne de bode,143.0,CARNE BODE
+7105403,Carne caprina,143.0,CARNE CAPRINA
+7105405,Carne de caprino,143.0,CARNE CAPRINO
+7105601,Carne de carneiro,204.0,CARNE CARNEIRO
+7105602,Carne de ovelha,204.0,CARNE OVELHA
+7105801,Mocotó de caprino,214.0,MOCOTO CAPRINO
+7106301,Pernil ,289.0,PERNIL
+7106401,Lagarto bovino ,199.0,LAGARTO BOVINO
+7106501,Alcatra suína,289.0,ALCATRA SUINA
+7107102,Brachola,204.0,BRACHOLA
+7107103,Bife role cru,204.0,BIFE ROLE CRU
+7107204,Buchada de bode,125.0,BUCHADA BODE
+7107501,Suã suína,397.0,SUA SUINA
+7107601,Carne de outros animais,242.0,CARNE OUTROS ANIMAIS
+7107603,Carne da paca,212.0,CARNE PACA
+7107611,Carne de jacaré,92.0,CARNE JACARE
+7107615,Carne de capivara,212.0,CARNE CAPIVARA
+7107617,Carne de cotia,212.0,CARNE COTIA
+7107622,Carne de jabuti,117.0,CARNE JABUTI
+7107801,Carne de primeira ,204.0,CARNE PRIMEIRA
+7107804,Chuleta,204.0,CHULETA
+7107805,Filé não especificado,204.0,FILE ESPECIFICADO
+7108107,Miúdo de bode ,191.0,MIUDO BODE
+7108301,Pé suíno fresco,214.0,PE SUINO FRESCO
+7109101,Carne bovina ,242.0,CARNE BOVINA
+7110601,Lombo não especificado,289.0,LOMBO ESPECIFICADO
+7110801,Músculo não especificado,199.0,MUSCULO ESPECIFICADO
+7110902,Ossada não especificada,164.0,OSSADA ESPECIFICADA
+7111202,Carne de segunda ,242.0,CARNE SEGUNDA
+7111401,Contrafilé orgânico,204.0,CONTRAFILE ORGANICO
+7111405,Bisteca orgânica,471.0,BISTECA ORGANICA
+7111702,Cabeça de lombo (carne bovina) orgânica,199.0,CABECA LOMBO CARNE BOVINA ORGANICA
+7111806,Tatu (lagarto redondo) orgânico,199.0,TATU LAGARTO REDONDO ORGANICO
+7200101,"Peixe de mar (inteiro, em posta, em filé, etc.)  ",117.0,PEIXE MAR INTEIRO POSTA FILE
+7200401,"Peixe de mar salgado (inteiro, em posta, em filé, etc.) ",117.0,PEIXE MAR SALGADO INTEIRO POSTA FILE
+7260101,Camarão,99.0,CAMARAO
+7261101,Siri,102.0,SIRI
+7261120,Bau (siri),102.0,BAU SIRI
+7261121,Goiá,102.0,GOIA
+7262101,Caranguejo,102.0,CARANGUEJO
+7262105,Guaiamu,102.0,GUAIAMU
+7263101,Marisco,148.0,MARISCO
+7264101,Ostra,137.0,OSTRA
+7265101,Lula,143.837,LULA
+7266101,Sururu,148.0,SURURU
+7270401,Bacalhau,117.0,BACALHAU
+7273101,Ovas de peixe (qualquer espécie),204.0,OVAS PEIXE QUALQUER ESPECIE
+7400101,"Peixe de água doce (inteiro, em posta, em filé, etc.) ",117.0,PEIXE AGUA DOCE INTEIRO POSTA FILE
+7400401,"Peixe de água doce salgado (inteiro, em posta, em filé, etc.) ",117.0,PEIXE AGUA DOCE SALGADO INTEIRO POSTA FILE
+7444101,Tracajá,117.0,TRACAJA
+7600101,"Peixe não especificado (inteiro, em posta, em filé, etc.)",117.0,PEIXE ESPECIFICADO INTEIRO POSTA FILE
+7600401,"Peixe não especificado salgado (inteiro, em posta, em filé, etc.)",117.0,PEIXE ESPECIFICADO SALGADO INTEIRO POSTA FILE
+7700101,Azeitona,145.0,AZEITONA
+7700201,Ervilha em conserva,69.0,ERVILHA CONSERVA
+7700202,Petit-pois,69.0,PETIT POIS
+7700401,Milho verde em conserva,81.0,MILHO VERDE CONSERVA
+7700501,Palmito em conserva,28.0,PALMITO CONSERVA
+7700601,Cogumelo em conserva,50.736,COGUMELO CONSERVA
+7700602,Champignon em conserva,50.736,CHAMPIGNON CONSERVA
+7700701,Aspargo em conserva,19.0,ASPARGO CONSERVA
+7700901,Repolho em conserva,19.0,REPOLHO CONSERVA
+7700902,Chucrute,19.0,CHUCRUTE
+7701101,Legume não especificado em conserva,47.0,LEGUME ESPECIFICADO CONSERVA
+7701404,Creme de cebola (sopa desidratada),46.312,CREME CEBOLA SOPA DESIDRATADA
+7701405,Creme de legumes (sopa desidratada),10.548,CREME LEGUMES SOPA DESIDRATADA
+7701406,Yakissoba ,527.0,YAKISSOBA
+7701501,Milho verde com ervilha em conserva,79.519,MILHO VERDE ERVILHA CONSERVA
+7701901,Feijoada,181.589,FEIJOADA
+7702001,Feijão branco com dobradinha em conserva,136.383,FEIJAO BRANCO DOBRADINHA CONSERVA
+7702101,Cozido,87.327,COZIDO
+7702302,Pasta de carne em conserva,245.648,PASTA CARNE CONSERVA
+7702402,Pasta de presunto em conserva,276.458,PASTA PRESUNTO CONSERVA
+7702502,Pasta de galinha em conserva,214.364,PASTA GALINHA CONSERVA
+7702601,Carne bovina em conserva,242.0,CARNE BOVINA CONSERVA
+7702602,Almôndega ,214.85,ALMONDEGA
+7702603,Kitute bovino,242.0,KITUTE BOVINO
+7702604,Almôndega ao molho em conserva,203.517,ALMONDEGA MOLHO CONSERVA
+7702704,Kitute suíno,178.0,KITUTE SUINO
+7702705,Presuntada,178.0,PRESUNTADA
+7702707,Fiambre ,178.0,FIAMBRE
+7702801,Salsicha em conserva,269.08,SALSICHA CONSERVA
+7703002,Sardinha em conserva,208.0,SARDINHA CONSERVA
+7703402,Atum em conserva,198.0,ATUM CONSERVA
+7703701,Pepino em conserva,12.0,PEPINO CONSERVA
+7703902,Pasta de peixe em conserva,198.0,PASTA PEIXE CONSERVA
+7704001,Picles,12.0,PICLES
+7705201,Nabo em conserva,43.259,NABO CONSERVA
+7705401,Strogonoff ,147.675,STROGONOFF
+7706001,Salmão em conserva,136.0,SALMAO CONSERVA
+7706104,Creme de cebola (sopa desidratada) light,46.312,CREME CEBOLA SOPA DESIDRATADA LIGHT
+7706105,Creme de legumes (sopa desidratada) light,10.548,CREME LEGUMES SOPA DESIDRATADA LIGHT
+7706106,Yakissoba (sopa de legumes desidratada) light,80.041,YAKISSOBA SOPA LEGUMES DESIDRATADA LIGHT
+7706302,Atum em conserva light,116.0,ATUM CONSERVA LIGHT
+7800103,Frango inteiro,239.0,FRANGO INTEIRO
+7800301,Parte de galinha ou frango não especificada,239.0,PARTE GALINHA FRANGO ESPECIFICADA
+7800302,Frango em pedaços,239.0,FRANGO PEDACOS
+7800303,Galinha em pedaços ,239.0,GALINHA PEDACOS
+7800304,Carne de galinha ,239.0,CARNE GALINHA
+7800401,Peito de galinha ou frango,173.0,PEITO GALINHA FRANGO
+7800402,Filé de frango,173.0,FILE FRANGO
+7800602,Carcaça de galinha ou frango,173.0,CARCACA GALINHA FRANGO
+7800701,Asa de galinha ou frango,290.0,ASA GALINHA FRANGO
+7800702,Drumete de galinha ou frango,213.0,DRUMETE GALINHA FRANGO
+7800801,Pescoço de galinha ou frango,300.0,PESCOCO GALINHA FRANGO
+7800901,Pé de galinha ou frango,215.0,PE GALINHA FRANGO
+7801001,Miúdo de galinha ou frango ,167.0,MIUDO GALINHA FRANGO
+7801101,Moela de galinha ou frango,146.0,MOELA GALINHA FRANGO
+7801202,Coração de frango,185.0,CORACAO FRANGO
+7801301,Fígado de galinha ou frango,167.0,FIGADO GALINHA FRANGO
+7801407,Canja ,31.471,CANJA
+7801702,Peru em pedaço não especificado,207.0,PERU PEDACO ESPECIFICADO
+7801801,Peito de peru,140.0,PEITO PERU
+7802101,Asa de peru,229.0,ASA PERU
+7802701,Chester ,207.0,CHESTER
+7802702,Tender,178.0,TENDER
+7802801,Nambu ,219.0,NAMBU
+7802901,Nuggets de frango,273.016,NUGGETS FRANGO
+7802902,Steak de frango,211.837,STEAK FRANGO
+7803001,Codorna,269.659,CODORNA
+7803201,Pé e asa de galinha ou frango,290.0,PE ASA GALINHA FRANGO
+7803301,Ovo de galinha,155.0,OVO GALINHA
+7803501,Ovo de codorna,155.0,OVO CODORNA
+7803702,"Galinha-d'angola abatida, congelada ou viva",247.0,GALINHA D ANGOLA ABATIDA CONGELADA VIVA
+7803703,Capote ,247.0,CAPOTE
+7803707,Mutum ,239.0,MUTUM
+7803907,Pato em pedaços,201.0,PATO PEDACOS
+7803908,Peito de pato,223.659,PEITO PATO
+7803913,Carne de pato ,201.0,CARNE PATO
+7805401,Peito de peru light,140.0,PEITO PERU LIGHT
+7805501,Frango inteiro orgânico,239.0,FRANGO INTEIRO ORGANICO
+7805702,Filé de frango orgânico,173.0,FILE FRANGO ORGANICO
+7900101,Leite de vaca integral,60.025,LEITE VACA INTEGRAL
+7900201,Leite de vaca fresco ,60.025,LEITE VACA FRESCO
+7900301,Leite de cabra,69.029,LEITE CABRA
+7900601,Leite em pó integral,480.0,LEITE PO INTEGRAL
+7900710,Leite em pó desnatado,358.0,LEITE PO DESNATADO
+7900801,Leite em pó ,480.0,LEITE PO
+7900901,Leite condensado,319.695,LEITE CONDENSADO
+7900903,Leite beijinho,319.695,LEITE BEIJINHO
+7901001,Creme de leite,292.0,CREME LEITE
+7901101,Chantilly,276.39,CHANTILLY
+7901201,Iogurte de qualquer sabor,98.694,IOGURTE QUALQUER SABOR
+7901203,Iogurte desnatado,56.0,IOGURTE DESNATADO
+7901204,Iogurte natural,61.0,IOGURTE NATURAL
+7901301,Yakult de qualquer sabor,69.3,YAKULT QUALQUER SABOR
+7901303,Bebida láctea,91.13,BEBIDA LACTEA
+7901304,Leite fermentado,50.226,LEITE FERMENTADO
+7901401,Coalhada,61.0,COALHADA
+7901501,Manteiga com ou sem sal,717.0,MANTEIGA SAL
+7901505,Manteiga de garrafa,717.0,MANTEIGA GARRAFA
+7901602,Margarina com ou sem sal,719.0,MARGARINA SAL
+7901701,Queijo prato,302.0,QUEIJO PRATO
+7901703,Queijo colonial,302.0,QUEIJO COLONIAL
+7901705,Queijo de colônia,302.0,QUEIJO COLONIA
+7901801,Queijo muçarela,318.0,QUEIJO MUCARELA
+7901803,Muçarela,318.0,MUCARELA
+7901807,Muçarela de búfala,318.0,MUCARELA BUFALA
+7901809,Queijo de búfala,318.0,QUEIJO BUFALA
+7901901,Queijo de reino,356.0,QUEIJO REINO
+7902001,Queijo de minas,240.0,QUEIJO MINAS
+7902003,Queijo de manteiga,318.0,QUEIJO MANTEIGA
+7902004,Quechimia,240.0,QUECHIMIA
+7902005,Queijo de coalho,373.0,QUEIJO COALHO
+7902008,Queijo canastra,240.0,QUEIJO CANASTRA
+7902201,Queijo ricota,174.0,QUEIJO RICOTA
+7902301,Leite de soja com sabor ,64.051,LEITE SOJA SABOR
+7902303,Ades original,54.0,ADES ORIGINAL
+7902403,Queijo ralado,431.0,QUEIJO RALADO
+7902501,Queijo provolone,351.0,QUEIJO PROVOLONE
+7902801,Queijo polenguinho,349.0,QUEIJO POLENGUINHO
+7902901,Requeijão,231.0,REQUEIJAO
+7902902,Queijo cremoso,231.0,QUEIJO CREMOSO
+7903001,Queijo não especificado,375.0,QUEIJO ESPECIFICADO
+7903101,Leite com sabor,83.322,LEITE SABOR
+7903102,Leite achocolatado,83.322,LEITE ACHOCOLATADO
+7903109,Leite aRomãtizado,83.322,LEITE AROMATIZADO
+7903110,Bebida achocolatada,83.322,BEBIDA ACHOCOLATADA
+7903201,Nata,195.0,NATA
+7903301,Queijo gorgonzola,353.0,QUEIJO GORGONZOLA
+7903402,Tofu,61.0,TOFU
+7903501,Leite de soja em pó,408.331,LEITE SOJA PO
+7903601,Leite de vaca desnatado,34.154,LEITE VACA DESNATADO
+7903702,Leite de vaca semidesnatado,42.0,LEITE VACA SEMIDESNATADO
+7903801,Leite não especificado pasteurizado,60.025,LEITE ESPECIFICADO PASTEURIZADO
+7903901,Iogurte de qualquer sabor light,102.0,IOGURTE QUALQUER SABOR LIGHT
+7904001,Iogurte de qualquer sabor diet,51.354,IOGURTE QUALQUER SABOR DIET
+7904201,Margarina light,253.685,MARGARINA LIGHT
+7904301,Leite de vaca integral orgânico,60.025,LEITE VACA INTEGRAL ORGANICO
+7904401,Leite de vaca fresco orgânico,60.025,LEITE VACA FRESCO ORGANICO
+7904601,Leite semidesnatado de vaca orgânico,42.0,LEITE SEMIDESNATADO VACA ORGANICO
+7904701,Creme de leite orgânico,292.0,CREME LEITE ORGANICO
+7904801,Iogurte de qualquer sabor orgânico,98.694,IOGURTE QUALQUER SABOR ORGANICO
+7904803,Iogurte de qualquer sabor desnatado orgânico,95.0,IOGURTE QUALQUER SABOR DESNATADO ORGANICO
+7904804,Iogurte natural de qualquer sabor orgânico,61.0,IOGURTE NATURAL QUALQUER SABOR ORGANICO
+7905103,Muçarela light,302.0,MUCARELA LIGHT
+7905104,Queijo muçarela light,302.0,QUEIJO MUCARELA LIGHT
+7905201,Leite de soja com sabor light,53.205,LEITE SOJA SABOR LIGHT
+7905203,Ades light,39.37,ADES LIGHT
+7905601,Creme de leite light,59.0,CREME LEITE LIGHT
+7905901,Queijo prato light,297.295,QUEIJO PRATO LIGHT
+7906001,Queijo de minas light,90.0,QUEIJO MINAS LIGHT
+7906005,Queijo de coalho light,297.295,QUEIJO COALHO LIGHT
+7906201,Queijo ricota light,92.692,QUEIJO RICOTA LIGHT
+7906303,Queijo ralado light,265.0,QUEIJO RALADO LIGHT
+7906401,Queijo polenguinho light,231.0,QUEIJO POLENGUINHO LIGHT
+7906501,Requeijão light,231.0,REQUEIJAO LIGHT
+7906601,Queijo não especificado light,90.0,QUEIJO ESPECIFICADO LIGHT
+7906702,Leite achocolatado light,63.0,LEITE ACHOCOLATADO LIGHT
+7906710,Bebida achocolatada light,63.0,BEBIDA ACHOCOLATADA LIGHT
+7906801,Leite com sabor diet,73.289,LEITE SABOR DIET
+7906802,Leite achocolatado diet,73.289,LEITE ACHOCOLATADO DIET
+7906810,Bebida achocolatada diet,73.289,BEBIDA ACHOCOLATADA DIET
+7906901,Leite de soja em pó light,379.579,LEITE SOJA PO LIGHT
+7907001,Leite em pó com sabor,405.0,LEITE PO SABOR
+7907101,Manteiga com ou sem sal light,347.315,MANTEIGA SAL LIGHT
+7907301,Queijo de minas frescal orgânico,240.0,QUEIJO MINAS FRESCAL ORGANICO
+7907305,Queijo de coalho frescal orgânico,373.0,QUEIJO COALHO FRESCAL ORGANICO
+8000103,Pão de hambúrguer,279.0,PAO HAMBURGUER
+8000105,Pão de sal,300.0,PAO SAL
+8000201,Pão doce,355.226,PAO DOCE
+8000203,Chineque,355.226,CHINEQUE
+8000218,Chineque com farofa,355.226,CHINEQUE FAROFA
+8000229,Pão de mel,508.364,PAO MEL
+8000234,Panetone,355.95,PANETONE
+8000237,Bisnaguinha,310.0,BISNAGUINHA
+8000240,Croissant,455.157,CROISSANT
+8000501,Pão de forma industrializado de qualquer marca,266.0,PAO FORMA INDUSTRIALIZADO QUALQUER MARCA
+8000801,Pão de queijo,363.0,PAO QUEIJO
+8001101,Pão de milho,316.623,PAO MILHO
+8001401,Pão integral,247.0,PAO INTEGRAL
+8001501,Pão não especificado,300.0,PAO ESPECIFICADO
+8001901,Torrada de qualquer pão,377.0,TORRADA QUALQUER PAO
+8002001,Rosca doce,422.97,ROSCA DOCE
+8002002,Rosquinha doce,443.0,ROSQUINHA DOCE
+8002101,Rosca salgada,245.75,ROSCA SALGADA
+8002106,Rosquinha salgada,432.0,ROSQUINHA SALGADA
+8002201,Biscoito salgado,432.0,BISCOITO SALGADO
+8002205,Presuntinho biscoito,508.99,PRESUNTINHO BISCOITO
+8002212,Biscoito de polvilho,436.72,BISCOITO POLVILHO
+8002225,Bolacha salgada,432.0,BOLACHA SALGADA
+8002227,Chips (salgadinhos),558.86,CHIPS SALGADINHOS
+8002230,Baconzitos,508.99,BACONZITOS
+8002236,Biscoito salgado integral,412.432,BISCOITO SALGADO INTEGRAL
+8002301,Biscoito doce,443.0,BISCOITO DOCE
+8002302,Cavaco chinês,443.0,CAVACO CHINES
+8002305,Sequilho,443.0,SEQUILHO
+8002306,Tareço,443.0,TARECO
+8002309,Solda,432.0,SOLDA
+8002315,Brevidade,371.2187724479208,BREVIDADE
+8002334,Bolacha doce,443.0,BOLACHA DOCE
+8002335,Maria maluca (bolacha doce),443.0,MARIA MALUCA BOLACHA DOCE
+8002405,Quebra-quebra,443.0,QUEBRA QUEBRA
+8002502,Rocambole,339.255,ROCAMBOLE
+8002503,Cuca de qualquer tipo,355.226,CUCA QUALQUER TIPO
+8002601,Bolo de milho,311.0,BOLO MILHO
+8002604,Amidomil (bolinho),311.0,AMIDOMIL BOLINHO
+8002605,Angusor de milho,311.0,ANGUSOR MILHO
+8002609,Grustoli (bolinho doce),421.368,GRUSTOLI BOLINHO DOCE
+8002701,Bolo de aipim,324.0,BOLO AIPIM
+8002702,Bolo de tapioca,324.0,BOLO TAPIOCA
+8002703,Bolo de macaxeira,324.0,BOLO MACAXEIRA
+8002704,Bolo de goma,324.0,BOLO GOMA
+8002801,Bolo de batata-doce,324.0,BOLO BATATA DOCE
+8002901,Bolo de arroz,324.0,BOLO ARROZ
+8003101,Bolo de cará,324.0,BOLO CARA
+8003501,Tortas doces de qualquer sabor,119.665,TORTAS DOCES QUALQUER SABOR
+8003601,Tortas salgadas de qualquer sabor,249.549,TORTAS SALGADAS QUALQUER SABOR
+8003701,Sonho,378.787,SONHO
+8003702,Filhos (bolinho de farinha de trigo e ovos),421.368,FILHOS BOLINHO FARINHA TRIGO OVOS
+8003801,Bolo de chocolate,312.8,BOLO CHOCOLATE
+8003902,Brioche,366.837,BRIOCHE
+8004001,Bolo de laranja,360.833,BOLO LARANJA
+8004101,Bolo de coco,317.24,BOLO COCO
+8004201,Bolo de cenoura,344.855,BOLO CENOURA
+8004601,Bolo de trigo,286.6,BOLO TRIGO
+8004701,Broa,392.0,BROA
+8004801,Biscoito recheado,472.0,BISCOITO RECHEADO
+8004807,Waffer (biscoito),430.32,WAFFER BISCOITO
+8004809,Alfajores (biscoito),505.21,ALFAJORES BISCOITO
+8004810,Bolacha recheada,472.0,BOLACHA RECHEADA
+8004813,Rosca recheada,620.2,ROSCA RECHEADA
+8004814,Rosquinha recheada de qualquer sabor,472.0,ROSQUINHA RECHEADA QUALQUER SABOR
+8005201,Biscoito não especificado,432.0,BISCOITO ESPECIFICADO
+8006101,Crepe,203.179,CREPE
+8006501,Pão diet (de forma industrializado),198.0,PAO DIET FORMA INDUSTRIALIZADO
+8006601,Pão light (de forma industrializado),198.0,PAO LIGHT FORMA INDUSTRIALIZADO
+8006701,Pão de queijo light,363.0,PAO QUEIJO LIGHT
+8006801,Pão integral light,198.0,PAO INTEGRAL LIGHT
+8007001,Tortas doces de qualquer sabor light,121.836,TORTAS DOCES QUALQUER SABOR LIGHT
+8007101,Tortas doces de qualquer sabor diet,99.17,TORTAS DOCES QUALQUER SABOR DIET
+8007302,Filhos (bolinho de farinha de trigo e ovos) light,426.533,FILHOS BOLINHO FARINHA TRIGO OVOS LIGHT
+8007402,Filhos (bolinho de farinha de trigo e ovos) diet,426.533,FILHOS BOLINHO FARINHA TRIGO OVOS DIET
+8007501,Bolo de chocolate light,299.493,BOLO CHOCOLATE LIGHT
+8007601,Bolo de chocolate diet,299.493,BOLO CHOCOLATE DIET
+8007701,Bolo de laranja light,328.383,BOLO LARANJA LIGHT
+8008001,Bolo de coco diet,299.493,BOLO COCO DIET
+8008201,Bolo de cenoura diet,272.738,BOLO CENOURA DIET
+8008301,Biscoito recheado light,432.962,BISCOITO RECHEADO LIGHT
+8008305,Biscoito waffer light,398.632,BISCOITO WAFFER LIGHT
+8008307,Waffer (biscoito) light,398.632,WAFFER BISCOITO LIGHT
+8008309,Alfajores (biscoito) light,432.962,ALFAJORES BISCOITO LIGHT
+8008310,Bolacha recheada light,432.962,BOLACHA RECHEADA LIGHT
+8008401,Biscoito recheado diet,405.275,BISCOITO RECHEADO DIET
+8008408,Rosquinha recheada de qualquer sabor diet,405.275,ROSQUINHA RECHEADA QUALQUER SABOR DIET
+8008410,Bolacha recheada diet,405.275,BOLACHA RECHEADA DIET
+8010001,Pão doce diet,312.251,PAO DOCE DIET
+8010029,Pão de mel diet,446.228,PAO MEL DIET
+8010034,Panetone diet,355.95,PANETONE DIET
+8010101,Biscoito salgado light,452.564,BISCOITO SALGADO LIGHT
+8010125,Bolacha salgada light,452.564,BOLACHA SALGADA LIGHT
+8010127,Chips (salgadinhos) light,407.047,CHIPS SALGADINHOS LIGHT
+8010401,Biscoito doce light,395.251,BISCOITO DOCE LIGHT
+8010434,Bolacha doce light,395.251,BOLACHA DOCE LIGHT
+8010501,Biscoito doce diet,453.915,BISCOITO DOCE DIET
+8010534,Bolacha doce diet,453.915,BOLACHA DOCE DIET
+8010601,Bolo de banana,300.054,BOLO BANANA
+8100101,Carne-seca,313.0,CARNE SECA
+8100102,Carne de charque,313.0,CARNE CHARQUE
+8100103,Jabá,313.0,JABA
+8100201,Carne de sol,313.0,CARNE SOL
+8100202,Carne do sertão,313.0,CARNE SERTAO
+8100502,Hambúrguer de carne bovina,214.0,HAMBURGUER CARNE BOVINA
+8100802,Copa de porco defumada,248.659,COPA PORCO DEFUMADA
+8101005,Bacon,541.0,BACON
+8101101,Hambúrguer de frango,206.14,HAMBURGUER FRANGO
+8102101,Salsicha no varejo,321.051,SALSICHA VAREJO
+8102204,"Linguiça (suína, bovina, mista, etc.)",396.0,LINGUICA SUINA BOVINA MISTA
+8102207,Linguiça de frango,244.0,LINGUICA FRANGO
+8102401,Chouriço,379.0,CHOURICO
+8102402,Morcela,379.0,MORCELA
+8102403,Morcilha,379.0,MORCILHA
+8102501,Paio,339.0,PAIO
+8102601,Mortadela,307.0,MORTADELA
+8102701,Salame,336.0,SALAME
+8102702,Salaminho,336.0,SALAMINHO
+8102801,Blanquet de peru,126.0,BLANQUET PERU
+8102901,Presunto ,226.0,PRESUNTO
+8103001,Hambúrguer de peru,195.964,HAMBURGUER PERU
+8103101,Hambúrguer não especificado,214.0,HAMBURGUER ESPECIFICADO
+8103601,Apresuntado,178.0,APRESUNTADO
+8103901,Pururuca de porco,544.0,PURURUCA PORCO
+8103902,Pele de porco preparada (pururuca),544.0,PELE PORCO PREPARADA PURURUCA
+8104001,"Patê (fígado, calabresa, frango, presunto, etc.)",326.0,PATE FIGADO CALABRESA FRANGO PRESUNTO
+8104101,Carne de aves defumada,195.659,CARNE AVES DEFUMADA
+8104601,Carne salgada não especificada,313.0,CARNE SALGADA ESPECIFICADA
+8104904,Mini chicken empanado,273.016,MINI CHICKEN EMPANADO
+8105001,Mortadela light,211.0,MORTADELA LIGHT
+8105201,Salsicha no varejo light,154.0,SALSICHA VAREJO LIGHT
+8105401,Salame light,145.184,SALAME LIGHT
+8105501,Blanquet de peru light,124.121,BLANQUET PERU LIGHT
+8105701,Hambúrguer não especificado light,190.0,HAMBURGUER ESPECIFICADO LIGHT
+8200101,Refrigerante de cola tradicional,36.874,REFRIGERANTE COLA TRADICIONAL
+8200102,Coca-cola tradicional,36.874,COCA COLA TRADICIONAL
+8200202,Fanta laranja tradicional,48.0,FANTA LARANJA TRADICIONAL
+8200208,Sukita tradicional,48.0,SUKITA TRADICIONAL
+8200301,Refrigerante de guaraná tradicional,39.0,REFRIGERANTE GUARANA TRADICIONAL
+8200302,Guaraná tradicional,39.0,GUARANA TRADICIONAL
+8200407,Sprit refrigerante tradicional,40.0,SPRIT REFRIGERANTE TRADICIONAL
+8200505,Fanta uva tradicional,48.0,FANTA UVA TRADICIONAL
+8200701,Refrigerante de cola light,2.002,REFRIGERANTE COLA LIGHT
+8200702,Coca-cola light,2.002,COCA COLA LIGHT
+8200801,Refrigerante de cola diet,2.0,REFRIGERANTE COLA DIET
+8200902,Minuano tradicional,40.0,MINUANO TRADICIONAL
+8201104,Mate tradicional,2.803,MATE TRADICIONAL
+8201202,Bidu tradicional,39.0,BIDU TRADICIONAL
+8201502,Fanta laranja light,0.0,FANTA LARANJA LIGHT
+8201601,Refrigerante de guaraná light,0.0,REFRIGERANTE GUARANA LIGHT
+8201602,Guaraná light,0.0,GUARANA LIGHT
+8201802,Tubaína tradicional,39.0,TUBAINA TRADICIONAL
+8201902,Tubaína light,2.002,TUBAINA LIGHT
+8202001,Caldo de cana,73.58,CALDO CANA
+8202002,Garapá,73.58,GARAPA
+8202101,Água de coco,19.275,AGUA COCO
+8202402,Q-suco,15.28,Q SUCO
+8202403,Q-refresko,15.28,Q REFRESKO
+8202602,Nescafé,241.0,NESCAFE
+8202803,Erva-mate,2.803,ERVA MATE
+8202804,Chimarrão,2.803,CHIMARRAO
+8202805,Tereré,2.803,TERERE
+8203401,Levedo de cerveja,170.0,LEVEDO CERVEJA
+8203501,Refrigerante não especificado,36.874,REFRIGERANTE ESPECIFICADO
+8203603,Cevada em pó,352.0,CEVADA PO
+8204503,Chocomilk ,83.322,CHOCOMILK
+8204902,Água tônica tradicional,40.017,AGUA TONICA TRADICIONAL
+8205201,"Chá diet (preto, camomila, erva-cidreira, capim-limão, etc.) ",2.524,CHA DIET PRETO CAMOMILA ERVA CIDREIRA CAPIM LIMAO
+8205402,Paraguai refrigerante tradicional,39.0,PARAGUAI REFRIGERANTE TRADICIONAL
+8205803,Gatorade,27.011,GATORADE
+8205901,Bebida energética,45.348,BEBIDA ENERGETICA
+8206301,"Chá (preto, camomila, erva-cidreira, capim-limão, etc.)",1.001,CHA PRETO CAMOMILA ERVA CIDREIRA CAPIM LIMAO
+8206402,Café solúvel capuccino ,27.707,CAFE SOLUVEL CAPUCCINO
+8207401,Refrigerante de guaraná diet,0.0,REFRIGERANTE GUARANA DIET
+8207402,Guaraná diet,0.0,GUARANA DIET
+8207601,Refrigerante de limão diet,0.0,REFRIGERANTE LIMAO DIET
+8207705,Fanta uva light,0.0,FANTA UVA LIGHT
+8208104,Mate light,2.803,MATE LIGHT
+8209002,Água tônica light,40.017,AGUA TONICA LIGHT
+8209102,Paraguai refrigerante light,2.002,PARAGUAI REFRIGERANTE LIGHT
+8211002,Q-suco light,15.28,Q SUCO LIGHT
+8211003,Q-refresko light,15.28,Q REFRESKO LIGHT
+8211102,Q-suco diet,15.28,Q SUCO DIET
+8212401,Café capuccino solúvel light,12.766,CAFE CAPUCCINO SOLUVEL LIGHT
+8212501,Café capuccino solúvel diet,12.766,CAFE CAPUCCINO SOLUVEL DIET
+8212902,Água tônica diet,40.017,AGUA TONICA DIET
+8212906,Refrigerante de quinino dietético,40.017,REFRIGERANTE QUININO DIETETICO
+8213003,Chá mate orgânico,2.803,CHA MATE ORGANICO
+8213004,Chimarrão orgânico,2.803,CHIMARRAO ORGANICO
+8213601,Suco de clorofila,1.873,SUCO CLOROFILA
+8273902,Café com farinha,181.0005,CAFE FARINHA
+8300101,Cerveja (com ou sem álcool),43.185,CERVEJA ALCOOL
+8300201,Chopp,43.185,CHOPP
+8300301,Aguardente,216.0,AGUARDENTE
+8300302,Cachaça,216.0,CACHACA
+8300501,Batida de qualquer sabor,187.38,BATIDA QUALQUER SABOR
+8300701,Rum,230.182,RUM
+8300801,Vodka,217.153,VODKA
+8301001,Uísque,230.182,UISQUE
+8301002,Whisky,230.182,WHISKY
+8301201,Champanhe,82.0,CHAMPANHE
+8301202,Sidra champanhe,82.0,SIDRA CHAMPANHE
+8301501,Martini,194.436,MARTINI
+8301601,Conhaque,231.0,CONHAQUE
+8301701,Drink dreher,216.0,DRINK DREHER
+8301901,Licor de qualquer sabor,282.649,LICOR QUALQUER SABOR
+8302409,Cajuína,45.0,CAJUINA
+8302415,Vinho,84.504,VINHO
+8302416,Catuaba,216.0,CATUABA
+8302901,Coquetel de frutas,187.38,COQUETEL FRUTAS
+8303101,Caipirinha,143.899,CAIPIRINHA
+8303501,Bebida alcoólica ,216.0,BEBIDA ALCOOLICA
+8303615,Vinho orgânico,84.504,VINHO ORGANICO
+8304301,Cerveja (com ou sem álcool) light,29.0,CERVEJA ALCOOL LIGHT
+8304502,Caxiri (aguardente de mandioca),216.0,CAXIRI AGUARDENTE MANDIOCA
+8400101,Azeite de oliva,887.805,AZEITE OLIVA
+8400301,Óleo de soja,879.734,OLEO SOJA
+8401801,Banha suína,902.0,BANHA SUINA
+8403001,Banha bovina,680.0,BANHA BOVINA
+8403201,Óleo não especificado,879.734,OLEO ESPECIFICADO
+8403501,Óleo de dendê,857.84,OLEO DENDE
+8500201,Salgadinho,274.6,SALGADINHO
+8500202,"Pastel (queijo, carne, palmito, etc.)",319.807,PASTEL QUEIJO CARNE PALMITO
+8500203,Croquete ,274.6,CROQUETE
+8500205,Coxinha ,274.6,COXINHA
+8500206,"Empada (queijo, carne, camarão, etc.)",153.963,EMPADA QUEIJO CARNE CAMARAO
+8500207,"Rissole  (queijo, carne, camarão, etc.)",274.6,RISSOLE  QUEIJO CARNE CAMARAO
+8500209,Acarajé,289.0,ACARAJE
+8500210,Torresmo ,544.0,TORRESMO
+8500211,Quibe ,274.6,QUIBE
+8500212,Abará (Bahia),289.0,ABARA BAHIA
+8500213,Paçoca de carne de sol,354.00202,PACOCA CARNE SOL
+8500215,Angu frito,74.596,ANGU FRITO
+8500217,Angu de milho ,60.584,ANGU MILHO
+8500218,Polenta ,74.596,POLENTA
+8500222,Esfirra ,359.422,ESFIRRA
+8500223,Esfirra de carne ,346.452,ESFIRRA CARNE
+8500224,Esfirra de queijo ,359.422,ESFIRRA QUEIJO
+8500225,Esfirra de ricota ,320.394,ESFIRRA RICOTA
+8500226,Esfirra de frango ,222.391,ESFIRRA FRANGO
+8500227,Enroladinho ,274.6,ENROLADINHO
+8500228,Bolinho de aipim,212.637,BOLINHO AIPIM
+8500232,Bolinho de bacalhau,214.013,BOLINHO BACALHAU
+8500302,Cachorro-quente ,272.469,CACHORRO QUENTE
+8500303,Hambúrguer (sanduíche),267.164,HAMBURGUER SANDUICHE
+8500304,Cheeseburger ,279.85,CHEESEBURGER
+8500305,Eggsburger ,269.437,EGGSBURGER
+8500307,Bauru ,229.465,BAURU
+8500308,Americano,236.679,AMERICANO
+8500313,Misto-quente ou frio ,265.417,MISTO QUENTE FRIO
+8500315,Sanduíche de queijo prato,329.293,SANDUICHE QUEIJO PRATO
+8500316,Sanduíche de salame,282.988,SANDUICHE SALAME
+8500317,Sanduíche de presunto,230.333,SANDUICHE PRESUNTO
+8500318,Sanduíche de queijo prato com presunto,265.417,SANDUICHE QUEIJO PRATO PRESUNTO
+8500319,Sanduíche de mortadela,315.972,SANDUICHE MORTADELA
+8500320,Sanduíche de queijo minas,329.293,SANDUICHE QUEIJO MINAS
+8500321,Cheese egg,279.85,CHEESE EGG
+8500322,Cheese tudo,279.85,CHEESE TUDO
+8500323,Sanduíche natural,245.583,SANDUICHE NATURAL
+8500401,Suco ,41.826,SUCO
+8500402,Suco de abacaxi ,53.206,SUCO ABACAXI
+8500403,Suco de acerola ,23.056,SUCO ACEROLA
+8500404,Suco de beterraba ,30.772,SUCO BETERRABA
+8500405,Suco de cupuaçu ,24.5,SUCO CUPUACU
+8500406,Suco de goiaba ,62.284,SUCO GOIABA
+8500407,Suco de laranja ,41.826,SUCO LARANJA
+8500408,Suco de laranja com banana ,56.799,SUCO LARANJA BANANA
+8500409,Suco de laranja e beterraba ,30.772,SUCO LARANJA BETERRABA
+8500410,Suco de laranja e cenoura ,30.772,SUCO LARANJA CENOURA
+8500411,Suco de laranja cenoura e beterraba,30.772,SUCO LARANJA CENOURA BETERRABA
+8500412,Suco de mamão ,57.13,SUCO MAMAO
+8500413,Suco de manga ,50.862,SUCO MANGA
+8500414,Suco de maracujá ,60.137,SUCO MARACUJA
+8500415,Suco de melão ,31.79,SUCO MELAO
+8500416,Suco de morango ,59.209,SUCO MORANGO
+8500417,Suco de pêssego ,53.993,SUCO PESSEGO
+8500418,Suco de pêssego em calda ,53.993,SUCO PESSEGO CALDA
+8500501,Vitamina ,92.781,VITAMINA
+8500503,Vitamina de banana ,92.781,VITAMINA BANANA
+8500504,Vitamina de banana com aveia ,108.457,VITAMINA BANANA AVEIA
+8500505,Vitamina de mamão ,80.591,VITAMINA MAMAO
+8500506,Vitamina de abacate ,100.188,VITAMINA ABACATE
+8500507,Vitamina de morango ,74.607,VITAMINA MORANGO
+8500508,Vitamina mista,83.164,VITAMINA MISTA
+8500509,Vitamina de maçã,82.986,VITAMINA MACA
+8500601,Refresco ,46.805,REFRESCO
+8500602,Refresco de caju ,46.805,REFRESCO CAJU
+8500603,Refresco de groselha ,46.805,REFRESCO GROSELHA
+8500604,Refresco de laranja ,46.805,REFRESCO LARANJA
+8500605,Refresco de maracujá ,46.805,REFRESCO MARACUJA
+8500606,Refresco de limão,46.805,REFRESCO LIMAO
+8500801,"Salada ou verdura cozida, exceto de fruta",26.0,SALADA VERDURA COZIDA EXCETO FRUTA
+8500802,Salada de maionese ,209.794,SALADA MAIONESE
+8500903,Pizza ,281.198,PIZZA
+8500904,Lasanha pronta light ,158.633,LASANHA PRONTA LIGHT
+8500905,Nhoque ,190.542,NHOQUE
+8500906,Caneloni,120.86,CANELONI
+8500907,Capeleti ,95.24,CAPELETI
+8500909,Ravioli ,95.24,RAVIOLI
+8500910,Calzone ,245.75,CALZONE
+8500913,Panqueca,203.179,PANQUECA
+8500914,Pizza calabreza,284.722,PIZZA CALABREZA
+8500915,Pizza muçarela,281.198,PIZZA MUCARELA
+8500916,Pizza presunto,284.722,PIZZA PRESUNTO
+8500917,Pizza portuguesa,247.487,PIZZA PORTUGUESA
+8500919,Macarronada,120.586,MACARRONADA
+8501004,Galeto ,261.659,GALETO
+8501104,Costela,365.0,COSTELA
+8501202,Pipoca doce ou salgada ,468.154,PIPOCA DOCE SALGADA
+8501302,Café ,1.001,CAFE
+8501303,Café com leite ,31.441,CAFE LEITE
+8501304,Café tipo expresso,2.445,CAFE TIPO EXPRESSO
+8501305,Café tipo capuccino,27.707,CAFE TIPO CAPUCCINO
+8501402,Milho cozido ,160.141,MILHO COZIDO
+8501502,Batata palito,263.5,BATATA PALITO
+8501503,Batata palha,545.703,BATATA PALHA
+8501902,Mungunzá ,146.0,MUNGUNZA
+8501903,Canjica ,146.0,CANJICA
+8501904,Curau,78.243,CURAU
+8502201,Farofa ,406.0,FAROFA
+8502301,"Mingau (fubá,  aveia, farinha, etc.) ",78.243,MINGAU FUBA  AVEIA FARINHA
+8502401,Tacacá ,16.0,TACACA
+8502501,Bolinho de coco ,297.322,BOLINHO COCO
+8502701,Risoto,113.016,RISOTO
+8502801,Vatapá ,226.068,VATAPA
+8502901,Farofa pronta ,406.0,FAROFA PRONTA
+8503202,Caldo de carne ,7.02,CALDO CARNE
+8503203,Caldo-de-feijão ,75.499,CALDO DE FEIJAO
+8503204,Caldo de mocotó ,7.02,CALDO MOCOTO
+8503501,Baião de dois,136.0,BAIAO DOIS
+8503801,Churrasco,204.0,CHURRASCO
+8504201,Sushi,146.775,SUSHI
+8504401,Salada de frutas ,51.241,SALADA FRUTAS
+8504501,"Sopa (legumes, carne, etc.)",28.776,SOPA LEGUMES CARNE
+8504801,Salpicão ,202.853,SALPICAO
+8505201,Charuto de repolho,84.911,CHARUTO REPOLHO
+8505401,Arroz à grega ,92.005,ARROZ GREGA
+8505501,Arrumadinho,198.856,ARRUMADINHO
+8505601,Bobó de camarão ,72.1,BOBO CAMARAO
+8505701,"Caruru (quiabo, amendoim, castanha de caju, camarão seco, etc.)",215.87,CARURU QUIABO AMENDOIM CASTANHA CAJU CAMARAO SECO
+8505801,Cuscuz paulista ,142.0,CUSCUZ PAULISTA
+8505901,"Empadão (queijo, frango, camarão, palmito, etc.)",153.963,EMPADAO QUEIJO FRANGO CAMARAO PALMITO
+8506001,Farofa de banana,309.5525,FAROFA BANANA
+8506101,Feijão-tropeiro ,198.856,FEIJAO TROPEIRO
+8506201,Galinha com arroz ,143.501,GALINHA ARROZ
+8506301,Galinhada ,143.501,GALINHADA
+8506401,Moqueca baiana ,130.13,MOQUECA BAIANA
+8506501,Omelete ,241.618,OMELETE
+8506601,Pirão ,119.648,PIRAO
+8506701,Quibebe ,36.387,QUIBEBE
+8506801,Quiche,282.726,QUICHE
+8506901,Suflê ,126.098,SUFLE
+8507001,Tutu ,123.7645,TUTU
+8507101,Moqueca capixaba ,100.524,MOQUECA CAPIXABA
+8507201,Maniçoba ,181.849,MANICOBA
+8507301,Caldo verde ,94.918,CALDO VERDE
+8507401,Arroz de cuxá,102.7360619949933,ARROZ CUXA
+8507501,Angu à baiana,125.337,ANGU BAIANA
+8507601,Chocolate,535.0,CHOCOLATE
+8507701,Gemada ,134.794,GEMADA
+8507801,Açaí com granola,110.0,ACAI GRANOLA
+8507901,Suco orgânico ,41.826,SUCO ORGANICO
+8507902,Suco de abacaxi orgânico ,53.206,SUCO ABACAXI ORGANICO
+8507903,Suco de acerola orgânico ,23.056,SUCO ACEROLA ORGANICO
+8507906,Suco de goiaba orgânico ,62.284,SUCO GOIABA ORGANICO
+8507907,Suco de laranja orgânico ,41.826,SUCO LARANJA ORGANICO
+8507911,Suco de laranja cenoura e beterraba orgânico ,30.772,SUCO LARANJA CENOURA BETERRABA ORGANICO
+8507913,Suco de manga orgânico ,50.862,SUCO MANGA ORGANICO
+8507914,Suco de maracujá orgânico ,60.137,SUCO MARACUJA ORGANICO
+8507916,Suco de morango orgânico ,59.209,SUCO MORANGO ORGANICO
+8507917,Suco de pêssego orgânico ,53.993,SUCO PESSEGO ORGANICO
+8507918,Suco de pêssego em calda orgânico ,53.993,SUCO PESSEGO CALDA ORGANICO
+8508003,Pizza pronta light ,255.571,PIZZA PRONTA LIGHT
+8508004,Lasanha pronta light ,144.333,LASANHA PRONTA LIGHT
+8508012,Macarrão pronto light ,189.862,MACARRAO PRONTO LIGHT
+8508017,Pizza portuguesa light,229.617,PIZZA PORTUGUESA LIGHT
+8508101,Farofa pronta light em pacote,406.0,FAROFA PRONTA LIGHT PACOTE
+8508301,Vaca atolada,245.0,VACA ATOLADA
+8508401,"Salada ou verdura crua, exceto de fruta",18.0,SALADA VERDURA CRUA EXCETO FRUTA
+8508403,Outros legumes cozidos,60.5,OUTROS LEGUMES COZIDOS
+8509801,Café da manha,31.441,CAFE MANHA
+8570101,Prato de comida brasileira,148.37413363637867,PRATO COMIDA BRASILEIRA
+8570102,Prato de comida do nordeste,129.20801482215074,PRATO COMIDA NORDESTE
+8570103,Prato de comida do norte,157.0970710897037,PRATO COMIDA NORTE
+8570104,Prato de comida do sudeste,131.0943051552244,PRATO COMIDA SUDESTE
+8570105,Prato de comida do sul,148.37413363637867,PRATO COMIDA SUL
+8570106,Prato de comida do centro-oeste,105.9299423583826,PRATO COMIDA CENTRO OESTE
+8570107,Arroz com feijão,116.51397285356666,ARROZ FEIJAO
+8570328,Pão com manteiga,369.5,PAO MANTEIGA
+8570329,Pão com margarina,369.8333333333333,PAO MARGARINA
+8570330,Pão com ovo,261.2955,PAO OVO
+8571110,"Carne com batata, inhame, batata-baroa ou aipim ",188.198,CARNE BATATA INHAME BATATA BAROA AIPIM
+8571111,"Carne com legumes (exceto batata, inhame e aipim)",150.523,CARNE LEGUMES EXCETO BATATA INHAME AIPIM
+8571112,"Frango com batata, inhame batata-baroa ou aipim",153.698,FRANGO BATATA INHAME BATATA BAROA AIPIM
+8571113,"Frango com legumes (exceto batata, inhame e aipim)",116.023,FRANGO LEGUMES EXCETO BATATA INHAME AIPIM
+8578404,Abobora com quiabo,21.0,ABOBORA QUIABO
+8579002,Arroz carreteiro,154.0,ARROZ CARRETEIRO
+8579003,Maria izabel,154.0,MARIA IZABEL
+8579004,Arroz de leite,142.422,ARROZ LEITE
+8579005,Arroz com mandioca,130.31147285356667,ARROZ MANDIOCA
+8579006,Arroz com ovo,179.10697285356667,ARROZ OVO
+8800109,Palma ,41.945,PALMA
