@@ -5,21 +5,22 @@ sys.path.append('.')
 from src.models.alimento import Alimento
 from src.utils.string_utils import StringUtils
 
-class ControllerAlimento:
+class ControllerAlimentoMeta(type):
+    """
+    Usando o conceito de metaclasse para aplicar o padrão Singleton na classe ControllerAlimento. É importante termos um Singleton nesta classe pois ela conversa com o arquivo CSV e instanciar este arquivo consome memória. Uma forma de evitar este consumo é utilizando o Singleton
+    """
+    _instances = {}
 
-    _instance = None
+    def __call__(cls, *args, **kwargs):
+        if cls not in cls._instances:
+            instance = super().__call__(*args, **kwargs)
+            cls._instances[cls] = instance
+        return cls._instances[cls]
+
+class ControllerAlimento(metaclass=ControllerAlimentoMeta):
 
     def __init__(self):
         self._df = pd.read_csv('data/Taco_Calorias_Alimentos.csv')
-
-    #def __new__(cls, *args, **kwargs):
-    #    if not hasattr(cls, '_instance'):
-    #        cls._instance = super().__new__(cls, *args, **kwargs)
-    #    return cls._instance
-
-    #@property
-    #def instance(self):
-    #    return self._instance
 
     def filtrar(self, frase:str)->Alimento|None:
         frase = StringUtils.sanitizar(frase)

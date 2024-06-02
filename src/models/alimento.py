@@ -28,5 +28,8 @@ class Alimento:
         self._calorias = self._calorias * (porcao/self._porcao)
         self._porcao = porcao
 
+    def __str__(self) -> str:
+        return f"codigo: {self.codigo}, descricao: {self.descricao}, calorias: {self.calorias}, porcao: {self.porcao}"
+
 class AlimentoEnum(Enum):
     PORCAO_PADRAO = 100.00

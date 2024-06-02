@@ -13,7 +13,8 @@ class TestControllerAlimento(unittest.TestCase):
     def test_filtrar(self):
         descricao_alimento = 'Canjiquinha de milho em grão'
         alimento = Alimento(6300706,descricao_alimento,79.68)
-        self.assertEqual(alimento, self._controller.filtrar(descricao_alimento))
+        alimento2 = self._controller.filtrar(descricao_alimento).__str__()
+        self.assertEqual(alimento.__str__(), alimento2.__str__())
 
     def test_filtrar_none(self):
         descricao_alimento = 'O aluguel da Kombi do Tião ta muito caro gente'
