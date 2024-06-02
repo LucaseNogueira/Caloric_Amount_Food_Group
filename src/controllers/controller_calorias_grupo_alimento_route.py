@@ -9,10 +9,11 @@ class ControllerCaloriasGrupoAlimentoRoute(ControllerRoute):
 
     def __init__(self, payload:BaseModel, token:str=None)->None:
         self._payload = payload
+        self._token = token
 
     def execute(self) -> dict:
         try:
-            validaToken(token)
+            self.validaToken(self._token)
             alimentos_json = ControllerApi.get_calorias_por_grupo_alimentos(self._payload)
             message = MessageSucesso('Requisição realizada com sucesso!')
             message.set_body(alimentos_json)
