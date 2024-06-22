@@ -13,7 +13,8 @@ class ControllerCaloriasGrupoAlimentoRoute(ControllerRoute):
 
     def execute(self) -> dict:
         try:
-            self.validaToken(self._token)
+            if not self.validaToken(self._token):
+                raise ValueError('Token JWT inválido')
             alimentos_json = ControllerApi.get_calorias_por_grupo_alimentos(self._payload)
             message = MessageSucesso('Requisição realizada com sucesso!')
             message.set_body(alimentos_json)
@@ -27,7 +28,5 @@ class ControllerCaloriasGrupoAlimentoRoute(ControllerRoute):
     
     def validaToken(self,token):
         response = ControllerConsumerServiceGETMethod('http://auth:8080/auth/validate', token)
-        if response == False:
-            raise ValueError('O token informado é invalido')
-        return response
+        return response.execute()
 
