@@ -6,12 +6,12 @@ name: CI-CD
 on:
   push:
     branches: 
-      - main
+      - master
       - dev
       - staging
   pull_request:
     branches:
-      - main
+      - master
       - dev
       - staging
 
@@ -79,18 +79,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
 
-  deploy-main:
+  deploy-master:
     needs: build
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/master'
     steps:
-      - name: Deploy to Main
-        run: echo "Deploying to Main"
+      - name: Deploy to master
+        run: echo "Deploying to Master"
         
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: main
+          ref: master
           fetch-depth: 0
           
       - name: Docker Login
