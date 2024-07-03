@@ -21,8 +21,8 @@ class ValueErrorChainHandler(ExceptionAbstractChainHandler):
     def handle(self, request: Any) -> Any | None:
         if isinstance(request, ValueError):
             message = MessageNotFound(str(request))
-            log = LogRequest(message)
-            log.cadastrar
+            ##log = LogRequest(message)
+            ##log.cadastrar
             return message.to_dict
         else:
             return super().handle(request)
@@ -32,8 +32,8 @@ class ExceptionChainHandler(ExceptionAbstractChainHandler):
     def handle(self, request: Any) -> Any | None:
         if isinstance(request, Exception):
             message = MessageInternaServerlError('Ocorreu uma falha interna no servidor')
-            log = LogRequest(message)
-            log.cadastrar
+            ##log = LogRequest(message)
+            ##log.cadastrar
             return message.to_dict
         else:
             return super().handle(request)
