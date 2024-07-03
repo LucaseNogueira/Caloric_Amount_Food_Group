@@ -72,7 +72,7 @@ jobs:
       uses: SonarSource/sonarcloud-github-action@master
       with:
         args: >
-          -Dsonar.projectKey=Caloric_Amount_Food_Group
+          -Dsonar.projectKey=${{ secrets.SONAR_PROJECT_KEY }}
           -Dsonar.organization=${{ secrets.SONAR_ORGANIZATION }}
           -Dsonar.sources=src
           -Dsonar.tests=tests
