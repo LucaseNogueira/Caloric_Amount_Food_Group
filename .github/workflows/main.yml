@@ -45,7 +45,7 @@ jobs:
       
     - name: Run tests with coverage
       run: |
-        pytest --cov=src --cov-report=
+        pytest --cov=src --cov-report=xml
 
     - name: List files after tests
       run: ls -al
@@ -81,7 +81,7 @@ jobs:
           -Dsonar.tests=tests
           -Dsonar.host.url=https://sonarcloud.io
           -Dsonar.login=${{ secrets.SONAR_TOKEN }}
-          -Dsonar.python.coverage.reportPaths=.coverage
+          -Dsonar.python.coverage.reportPaths=coverage.xml
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
