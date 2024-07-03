@@ -45,7 +45,7 @@ jobs:
       
     - name: Run tests with coverage
       run: |
-        pytest --cov=src --cov-report=xml
+        pytest --cov=src --cov-report=
 
     - name: List files after tests
       run: ls -al
