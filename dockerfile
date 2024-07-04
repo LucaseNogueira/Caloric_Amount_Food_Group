@@ -1,9 +1,7 @@
 # Use a imagem oficial do Python como base
 FROM python:3.10-slim
 
-RUN mkdir -p /app
-
-# Defina o diretório de trabalho dentro do contêiner
+# Crie o diretório da aplicação dentro do contêiner
 WORKDIR /app
 
 # Copie o arquivo de requisitos para o diretório de trabalho
